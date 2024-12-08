@@ -1,0 +1,8040 @@
+[
+  {
+    "_id": "Ectoraid Tick Powder",
+    "quantity": 48,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Ectoraid Tick Powder",
+        "quantity": 43,
+        "createdAt": "31/01/2024",
+        "updatedAt": "05/02/2024",
+        "unitCostPrice": 600,
+        "unitSellingPrice": 1000,
+        "expiryDate": "31/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Ectoraid Tick Powder",
+        "quantity": 5,
+        "createdAt": "05/02/2024",
+        "updatedAt": "07/02/2024",
+        "unitCostPrice": 600,
+        "unitSellingPrice": 1000,
+        "expiryDate": "05/02/2025"
+      }
+    ]
+  },
+  {
+    "_id": "St Mama Cypermethrine 100ml",
+    "quantity": 8,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "St Mama Cypermethrine 100ml",
+        "quantity": 8,
+        "createdAt": "07/10/2023",
+        "updatedAt": "22/10/2023",
+        "unitCostPrice": 800,
+        "unitSellingPrice": 1000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "esty fish 1kg",
+    "quantity": 20,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "esty fish 1kg",
+        "quantity": 2,
+        "createdAt": "06/10/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 1300,
+        "unitSellingPrice": 2300,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "esty fish 1kg",
+        "quantity": 18,
+        "createdAt": "01/02/2024",
+        "updatedAt": "12/02/2024",
+        "unitCostPrice": 1300,
+        "unitSellingPrice": 2300,
+        "expiryDate": "01/02/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Tetanus ",
+    "quantity": 3,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Tetanus ",
+        "quantity": 3,
+        "createdAt": "25/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 600,
+        "unitSellingPrice": 1000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Wound Dressing ",
+    "quantity": 10,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Wound Dressing ",
+        "quantity": 5,
+        "createdAt": "21/08/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 1000,
+        "unitSellingPrice": 1500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Healing Oil 100ml",
+    "quantity": 27,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Healing Oil 100ml",
+        "quantity": 27,
+        "createdAt": "02/06/2023",
+        "updatedAt": "02/01/2024",
+        "unitCostPrice": 300,
+        "unitSellingPrice": 800,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Reo Cocci 100g",
+    "quantity": 3,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Reo Cocci 100g",
+        "quantity": 3,
+        "createdAt": "01/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 600,
+        "unitSellingPrice": 800,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Plastic Double Plate Small",
+    "quantity": 2,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Plastic Double Plate Small",
+        "quantity": 2,
+        "createdAt": "27/10/2023",
+        "updatedAt": "14/02/2024",
+        "unitCostPrice": 2000,
+        "unitSellingPrice": 3000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Reo Tylo 100g",
+    "quantity": 13,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Reo Tylo 100g",
+        "quantity": 13,
+        "createdAt": "01/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 800,
+        "unitSellingPrice": 1000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Dog Rice",
+    "quantity": 3277,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Dog Rice",
+        "quantity": 35,
+        "createdAt": "07/10/2023",
+        "updatedAt": "08/02/2024",
+        "unitCostPrice": 450,
+        "unitSellingPrice": 600,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Dog Rice",
+        "quantity": 3242,
+        "createdAt": "12/01/2024",
+        "updatedAt": "14/02/2024",
+        "unitCostPrice": 450,
+        "unitSellingPrice": 550,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Nemovite 100g",
+    "quantity": 3,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Nemovite 100g",
+        "quantity": 3,
+        "createdAt": "01/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 1300,
+        "unitSellingPrice": 2000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Booster Jerky Treat",
+    "quantity": 65,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Booster Jerky Treat",
+        "quantity": 13,
+        "createdAt": "08/01/2024",
+        "updatedAt": "12/02/2024",
+        "unitCostPrice": 2300,
+        "unitSellingPrice": 2900,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Booster Jerky Treat",
+        "quantity": 52,
+        "createdAt": "03/01/2024",
+        "updatedAt": "14/02/2024",
+        "unitCostPrice": 2300,
+        "unitSellingPrice": 3000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "rainbow harness puppy",
+    "quantity": 22,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "rainbow harness puppy",
+        "quantity": 6,
+        "createdAt": "07/10/2023",
+        "updatedAt": "20/12/2023",
+        "unitCostPrice": 3000,
+        "unitSellingPrice": 4000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "rainbow harness puppy",
+        "quantity": 16,
+        "createdAt": "01/06/2023",
+        "updatedAt": "11/12/2023",
+        "unitCostPrice": 3000,
+        "unitSellingPrice": 4000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Sawke Shampoo 500ml",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Sawke Shampoo 500ml",
+        "quantity": 1,
+        "createdAt": "01/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 1300,
+        "unitSellingPrice": 1800,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "chain leash with spring",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "chain leash with spring",
+        "quantity": 1,
+        "createdAt": "01/06/2023",
+        "updatedAt": "13/12/2023",
+        "unitCostPrice": 5000,
+        "unitSellingPrice": 5500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Pour On 500ml",
+    "quantity": 3,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Pour On 500ml",
+        "quantity": 3,
+        "createdAt": "12/06/2023",
+        "updatedAt": "04/11/2023",
+        "unitCostPrice": 3500,
+        "unitSellingPrice": 5000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "bingo 15kg",
+    "quantity": 4,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "bingo 15kg",
+        "quantity": 4,
+        "createdAt": "11/08/2023",
+        "updatedAt": "23/01/2024",
+        "unitCostPrice": 20270,
+        "unitSellingPrice": 26000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Calciplus 500ml",
+    "quantity": 5,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Calciplus 500ml",
+        "quantity": 5,
+        "createdAt": "01/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 1450,
+        "unitSellingPrice": 2200,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "whiskers 340g",
+    "quantity": 31,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "whiskers 340g",
+        "quantity": 10,
+        "createdAt": "01/02/2024",
+        "updatedAt": "01/02/2024",
+        "unitCostPrice": 4000,
+        "unitSellingPrice": 6000,
+        "expiryDate": "01/02/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "whiskers 340g",
+        "quantity": 1,
+        "createdAt": "29/05/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 3500,
+        "unitSellingPrice": 4000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Padded Puppy Colar Chain Leash",
+    "quantity": 5,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Padded Puppy Colar Chain Leash",
+        "quantity": 5,
+        "createdAt": "02/06/2023",
+        "updatedAt": "22/01/2024",
+        "unitCostPrice": 2500,
+        "unitSellingPrice": 4500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "puppy mouthguard",
+    "quantity": 26,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "puppy mouthguard",
+        "quantity": 24,
+        "createdAt": "09/10/2023",
+        "updatedAt": "05/02/2024",
+        "unitCostPrice": 1000,
+        "unitSellingPrice": 1200,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "puppy mouthguard",
+        "quantity": 2,
+        "createdAt": "14/12/2023",
+        "updatedAt": "06/01/2024",
+        "unitCostPrice": 1000,
+        "unitSellingPrice": 1200,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Shilling ChIcken Toy",
+    "quantity": 3,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Shilling ChIcken Toy",
+        "quantity": 3,
+        "createdAt": "07/10/2023",
+        "updatedAt": "07/10/2023",
+        "unitCostPrice": 1000,
+        "unitSellingPrice": 1500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Multivitamin Inj",
+    "quantity": 8,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Multivitamin Inj",
+        "quantity": 8,
+        "createdAt": "11/02/2024",
+        "updatedAt": "11/02/2024",
+        "unitCostPrice": 1000,
+        "unitSellingPrice": 1500,
+        "expiryDate": "11/02/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Best One Cat Litter 2kg",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Best One Cat Litter 2kg",
+        "quantity": 1,
+        "createdAt": "02/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 3800,
+        "unitSellingPrice": 6000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "booster puppy can",
+    "quantity": 214,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "booster puppy can",
+        "quantity": 45,
+        "createdAt": "20/01/2024",
+        "updatedAt": "13/02/2024",
+        "unitCostPrice": 1100,
+        "unitSellingPrice": 2100,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "booster puppy can",
+        "quantity": 169,
+        "createdAt": "27/10/2023",
+        "updatedAt": "13/02/2024",
+        "unitCostPrice": 1400,
+        "unitSellingPrice": 2100,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Surgery ",
+    "quantity": 4,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Surgery ",
+        "quantity": 2,
+        "createdAt": "28/01/2024",
+        "updatedAt": "28/01/2024",
+        "unitCostPrice": 10000,
+        "unitSellingPrice": 20000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "petcool can",
+    "quantity": 20,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "petcool can",
+        "quantity": 20,
+        "createdAt": "07/09/2023",
+        "updatedAt": "03/02/2024",
+        "unitCostPrice": 1000,
+        "unitSellingPrice": 1500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Sanicool Petcool Litter 5l",
+    "quantity": 3,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Sanicool Petcool Litter 5l",
+        "quantity": 3,
+        "createdAt": "03/01/2024",
+        "updatedAt": "29/01/2024",
+        "unitCostPrice": 6600,
+        "unitSellingPrice": 10000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "jumbo collar",
+    "quantity": 32,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "jumbo collar",
+        "quantity": 32,
+        "createdAt": "08/10/2023",
+        "updatedAt": "13/12/2023",
+        "unitCostPrice": 1500,
+        "unitSellingPrice": 2200,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Paded Leash Medium Colar oy",
+    "quantity": 3,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Paded Leash Medium Colar oy",
+        "quantity": 3,
+        "createdAt": "07/10/2023",
+        "updatedAt": "18/12/2023",
+        "unitCostPrice": 2500,
+        "unitSellingPrice": 4500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Pregnancy Test Kit",
+    "quantity": 14,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Pregnancy Test Kit",
+        "quantity": 3,
+        "createdAt": "27/10/2023",
+        "updatedAt": "27/10/2023",
+        "unitCostPrice": 2500,
+        "unitSellingPrice": 5500,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Pregnancy Test Kit",
+        "quantity": 11,
+        "createdAt": "25/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 2500,
+        "unitSellingPrice": 5000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Neofuraseryl Plus 100g",
+    "quantity": 6,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Neofuraseryl Plus 100g",
+        "quantity": 6,
+        "createdAt": "06/10/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 1000,
+        "unitSellingPrice": 1400,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "puppy leash with collar",
+    "quantity": 13,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "puppy leash with collar",
+        "quantity": 13,
+        "createdAt": "01/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 1000,
+        "unitSellingPrice": 1800,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "four oil",
+    "quantity": 17,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "four oil",
+        "quantity": 15,
+        "createdAt": "18/01/2024",
+        "updatedAt": "07/02/2024",
+        "unitCostPrice": 3500,
+        "unitSellingPrice": 6000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "four oil",
+        "quantity": 2,
+        "createdAt": "06/10/2023",
+        "updatedAt": "05/02/2024",
+        "unitCostPrice": 3500,
+        "unitSellingPrice": 6000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Reo Vita 100g",
+    "quantity": 15,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Reo Vita 100g",
+        "quantity": 10,
+        "createdAt": "06/10/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 600,
+        "unitSellingPrice": 1200,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Reo Vita 100g",
+        "quantity": 5,
+        "createdAt": "01/06/2023",
+        "updatedAt": "03/01/2024",
+        "unitCostPrice": 600,
+        "unitSellingPrice": 800,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Intergendox 100g",
+    "quantity": 4,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Intergendox 100g",
+        "quantity": 1,
+        "createdAt": "06/10/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 2500,
+        "unitSellingPrice": 3000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Intergendox 100g",
+        "quantity": 3,
+        "createdAt": "01/06/2023",
+        "updatedAt": "10/01/2024",
+        "unitCostPrice": 2500,
+        "unitSellingPrice": 3000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Praziwormer Pack Of 20",
+    "quantity": 2,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Praziwormer Pack Of 20",
+        "quantity": 2,
+        "createdAt": "06/09/2023",
+        "updatedAt": "02/01/2024",
+        "unitCostPrice": 3500,
+        "unitSellingPrice": 6800,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Elrox Optimizer 100g",
+    "quantity": 3,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Elrox Optimizer 100g",
+        "quantity": 3,
+        "createdAt": "06/10/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 600,
+        "unitSellingPrice": 1000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Grooming Small Breed Small",
+    "quantity": 14,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Grooming Small Breed Small",
+        "quantity": 4,
+        "createdAt": "25/06/2023",
+        "updatedAt": "22/12/2023",
+        "unitCostPrice": 2000,
+        "unitSellingPrice": 3500,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Grooming Small Breed Small",
+        "quantity": 5,
+        "createdAt": "25/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 2000,
+        "unitSellingPrice": 3500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Dog Mattress Msize 2",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Dog Mattress Msize 2",
+        "quantity": 1,
+        "createdAt": "10/01/2024",
+        "updatedAt": "10/01/2024",
+        "unitCostPrice": 15000,
+        "unitSellingPrice": 20000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Softland Iverm Drench",
+    "quantity": 4,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Softland Iverm Drench",
+        "quantity": 4,
+        "createdAt": "02/01/2024",
+        "updatedAt": "27/01/2024",
+        "unitCostPrice": 1500,
+        "unitSellingPrice": 3000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "kirchi ",
+    "quantity": 31,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "kirchi ",
+        "quantity": 15,
+        "createdAt": "01/06/2023",
+        "updatedAt": "02/01/2024",
+        "unitCostPrice": 600,
+        "unitSellingPrice": 1200,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "kirchi ",
+        "quantity": 16,
+        "createdAt": "06/10/2023",
+        "updatedAt": "05/12/2023",
+        "unitCostPrice": 600,
+        "unitSellingPrice": 1500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "prosense multivit",
+    "quantity": 7,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "prosense multivit",
+        "quantity": 3,
+        "createdAt": "06/10/2023",
+        "updatedAt": "19/11/2023",
+        "unitCostPrice": 6000,
+        "unitSellingPrice": 9000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "prosense multivit",
+        "quantity": 4,
+        "createdAt": "01/06/2023",
+        "updatedAt": "05/02/2024",
+        "unitCostPrice": 5000,
+        "unitSellingPrice": 9000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Rc Mini Puppy 2kg",
+    "quantity": 12,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Rc Mini Puppy 2kg",
+        "quantity": 12,
+        "createdAt": "01/02/2024",
+        "updatedAt": "10/02/2024",
+        "unitCostPrice": 22000,
+        "unitSellingPrice": 34000,
+        "expiryDate": "01/02/2025"
+      }
+    ]
+  },
+  {
+    "_id": "kcvite multivit 100ml",
+    "quantity": 4,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "kcvite multivit 100ml",
+        "quantity": 4,
+        "createdAt": "06/10/2023",
+        "updatedAt": "05/02/2024",
+        "unitCostPrice": 1000,
+        "unitSellingPrice": 2000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "petbooster multivit",
+    "quantity": 45,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "petbooster multivit",
+        "quantity": 45,
+        "createdAt": "05/11/2023",
+        "updatedAt": "29/01/2024",
+        "unitCostPrice": 50,
+        "unitSellingPrice": 150,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Teething Toy Big",
+    "quantity": 5,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Teething Toy Big",
+        "quantity": 5,
+        "createdAt": "25/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 3000,
+        "unitSellingPrice": 3500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Calciplus 100ml",
+    "quantity": 15,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Calciplus 100ml",
+        "quantity": 5,
+        "createdAt": "06/10/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 500,
+        "unitSellingPrice": 1200,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Calciplus 100ml",
+        "quantity": 10,
+        "createdAt": "01/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 500,
+        "unitSellingPrice": 1000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Double Sided Wooden Brush",
+    "quantity": 379,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Double Sided Wooden Brush",
+        "quantity": 19,
+        "createdAt": "04/02/2024",
+        "updatedAt": "09/02/2024",
+        "unitCostPrice": 2500,
+        "unitSellingPrice": 4000,
+        "expiryDate": "04/02/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Double Sided Wooden Brush",
+        "quantity": 20,
+        "createdAt": "04/02/2024",
+        "updatedAt": "04/02/2024",
+        "unitCostPrice": 2500,
+        "unitSellingPrice": 4000,
+        "expiryDate": "04/02/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Beware Of Dog Metal ",
+    "quantity": 5,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Beware Of Dog Metal ",
+        "quantity": 5,
+        "createdAt": "27/10/2023",
+        "updatedAt": "27/10/2023",
+        "unitCostPrice": 1700,
+        "unitSellingPrice": 3800,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Np Adult Can 400g",
+    "quantity": 53,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Np Adult Can 400g",
+        "quantity": 53,
+        "createdAt": "11/07/2023",
+        "updatedAt": "18/12/2023",
+        "unitCostPrice": 2000,
+        "unitSellingPrice": 2600,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Puppy Chow 16.3kg",
+    "quantity": 25,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Puppy Chow 16.3kg",
+        "quantity": 25,
+        "createdAt": "24/06/2023",
+        "updatedAt": "10/01/2024",
+        "unitCostPrice": 1000,
+        "unitSellingPrice": 1800,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Rc Giant Puppy 1kg",
+    "quantity": 3,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Rc Giant Puppy 1kg",
+        "quantity": 3,
+        "createdAt": "01/02/2024",
+        "updatedAt": "10/02/2024",
+        "unitCostPrice": 11000,
+        "unitSellingPrice": 19000,
+        "expiryDate": "01/02/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Rc Giant Starter 3.5kg",
+    "quantity": 13,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Rc Giant Starter 3.5kg",
+        "quantity": 2,
+        "createdAt": "18/12/2023",
+        "updatedAt": "10/02/2024",
+        "unitCostPrice": 32000,
+        "unitSellingPrice": 49500,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Rc Giant Starter 3.5kg",
+        "quantity": 11,
+        "createdAt": "06/09/2023",
+        "updatedAt": "10/02/2024",
+        "unitCostPrice": 32000,
+        "unitSellingPrice": 49500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Phectoz Dog Soap",
+    "quantity": 4,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Phectoz Dog Soap",
+        "quantity": 4,
+        "createdAt": "27/10/2023",
+        "updatedAt": "02/02/2024",
+        "unitCostPrice": 550,
+        "unitSellingPrice": 1100,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Pour On 100ml",
+    "quantity": 16,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Pour On 100ml",
+        "quantity": 16,
+        "createdAt": "12/06/2023",
+        "updatedAt": "02/01/2024",
+        "unitCostPrice": 300,
+        "unitSellingPrice": 600,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "jumbo mouthguard",
+    "quantity": 23,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "jumbo mouthguard",
+        "quantity": 23,
+        "createdAt": "09/10/2023",
+        "updatedAt": "08/02/2024",
+        "unitCostPrice": 1700,
+        "unitSellingPrice": 2500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Multivitamin Inj Only",
+    "quantity": 25,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Multivitamin Inj Only",
+        "quantity": 10,
+        "createdAt": "11/02/2024",
+        "updatedAt": "11/02/2024",
+        "unitCostPrice": 500,
+        "unitSellingPrice": 2000,
+        "expiryDate": "11/02/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Multivitamin Inj Only",
+        "quantity": 5,
+        "createdAt": "10/11/2023",
+        "updatedAt": "10/11/2023",
+        "unitCostPrice": 500,
+        "unitSellingPrice": 1000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "double leash puppy",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "double leash puppy",
+        "quantity": 1,
+        "createdAt": "01/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 3000,
+        "unitSellingPrice": 6000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Medium Back Harness Oy",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Medium Back Harness Oy",
+        "quantity": 1,
+        "createdAt": "07/10/2023",
+        "updatedAt": "07/10/2023",
+        "unitCostPrice": 3500,
+        "unitSellingPrice": 6000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "rc mini indoor 3kg",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "rc mini indoor 3kg",
+        "quantity": 1,
+        "createdAt": "06/10/2023",
+        "updatedAt": "10/02/2024",
+        "unitCostPrice": 25000,
+        "unitSellingPrice": 44000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Kennel Chain 3.5mm",
+    "quantity": 40,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Kennel Chain 3.5mm",
+        "quantity": 5,
+        "createdAt": "06/08/2023",
+        "updatedAt": "13/12/2023",
+        "unitCostPrice": 3500,
+        "unitSellingPrice": 5000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Kennel Chain 3.5mm",
+        "quantity": 7,
+        "createdAt": "06/08/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 3500,
+        "unitSellingPrice": 5000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Tetracline 50g ",
+    "quantity": 9,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Tetracline 50g ",
+        "quantity": 3,
+        "createdAt": "25/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 400,
+        "unitSellingPrice": 500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Aminogrow 100g",
+    "quantity": 4,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Aminogrow 100g",
+        "quantity": 4,
+        "createdAt": "01/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 1200,
+        "unitSellingPrice": 1800,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Tick Spray Small",
+    "quantity": 9,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Tick Spray Small",
+        "quantity": 9,
+        "createdAt": "02/01/2024",
+        "updatedAt": "08/02/2024",
+        "unitCostPrice": 1100,
+        "unitSellingPrice": 1800,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Silicone Brush ",
+    "quantity": 184,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Silicone Brush ",
+        "quantity": 3,
+        "createdAt": "27/10/2023",
+        "updatedAt": "09/02/2024",
+        "unitCostPrice": 1300,
+        "unitSellingPrice": 3500,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Silicone Brush ",
+        "quantity": 1,
+        "createdAt": "08/01/2024",
+        "updatedAt": "01/02/2024",
+        "unitCostPrice": 1300,
+        "unitSellingPrice": 3500,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Silicone Brush ",
+        "quantity": 10,
+        "createdAt": "04/02/2024",
+        "updatedAt": "04/02/2024",
+        "unitCostPrice": 1300,
+        "unitSellingPrice": 3500,
+        "expiryDate": "04/02/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Reo Oxyseryl 100g",
+    "quantity": 14,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Reo Oxyseryl 100g",
+        "quantity": 9,
+        "createdAt": "06/10/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 600,
+        "unitSellingPrice": 1200,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Reo Oxyseryl 100g",
+        "quantity": 5,
+        "createdAt": "01/06/2023",
+        "updatedAt": "10/01/2024",
+        "unitCostPrice": 600,
+        "unitSellingPrice": 1200,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Drug B",
+    "quantity": 20,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Drug B",
+        "quantity": 20,
+        "createdAt": "26/02/2024",
+        "updatedAt": "26/02/2024",
+        "unitCostPrice": 20,
+        "unitSellingPrice": 24,
+        "expiryDate": "26/02/2025"
+      }
+    ]
+  },
+  {
+    "_id": "booster cat can ",
+    "quantity": 125,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "booster cat can ",
+        "quantity": 125,
+        "createdAt": "18/01/2024",
+        "updatedAt": "14/02/2024",
+        "unitCostPrice": 900,
+        "unitSellingPrice": 1950,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Another Item",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Another Item",
+        "quantity": 1,
+        "createdAt": "16/02/2024",
+        "updatedAt": "16/02/2024",
+        "unitCostPrice": 20,
+        "unitSellingPrice": 24,
+        "expiryDate": "16/02/2025"
+      }
+    ]
+  },
+  {
+    "_id": "8mm Agriproject Chain",
+    "quantity": 2,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "8mm Agriproject Chain",
+        "quantity": 2,
+        "createdAt": "01/06/2023",
+        "updatedAt": "10/01/2024",
+        "unitCostPrice": 6000,
+        "unitSellingPrice": 7000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Antibiotics 3 Nd Mult ",
+    "quantity": 9,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Antibiotics 3 Nd Mult ",
+        "quantity": 9,
+        "createdAt": "27/01/2024",
+        "updatedAt": "13/02/2024",
+        "unitCostPrice": 2000,
+        "unitSellingPrice": 3000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Anidone CRD 100g",
+    "quantity": 10,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Anidone CRD 100g",
+        "quantity": 5,
+        "createdAt": "25/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 600,
+        "unitSellingPrice": 1000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Anidone CRD 100g",
+        "quantity": 5,
+        "createdAt": "06/10/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 600,
+        "unitSellingPrice": 1000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "2.5mm Kennel Chain",
+    "quantity": 3,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "2.5mm Kennel Chain",
+        "quantity": 3,
+        "createdAt": "25/06/2023",
+        "updatedAt": "05/02/2024",
+        "unitCostPrice": 3000,
+        "unitSellingPrice": 3500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "booster can ",
+    "quantity": 519,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "booster can ",
+        "quantity": 477,
+        "createdAt": "27/10/2023",
+        "updatedAt": "14/02/2024",
+        "unitCostPrice": 1200,
+        "unitSellingPrice": 1750,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "booster can ",
+        "quantity": 42,
+        "createdAt": "31/01/2024",
+        "updatedAt": "10/02/2024",
+        "unitCostPrice": 950,
+        "unitSellingPrice": 1800,
+        "expiryDate": "31/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Megayield Tonic 500ml",
+    "quantity": 19,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Megayield Tonic 500ml",
+        "quantity": 14,
+        "createdAt": "25/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 800,
+        "unitSellingPrice": 1000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Megayield Tonic 500ml",
+        "quantity": 5,
+        "createdAt": "06/10/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 800,
+        "unitSellingPrice": 1000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "cat and co can",
+    "quantity": 27,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "cat and co can",
+        "quantity": 27,
+        "createdAt": "29/05/2023",
+        "updatedAt": "08/12/2023",
+        "unitCostPrice": 700,
+        "unitSellingPrice": 850,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "E-Colar Small",
+    "quantity": 2,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "E-Colar Small",
+        "quantity": 2,
+        "createdAt": "25/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 1000,
+        "unitSellingPrice": 2500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Glove Iron Groom",
+    "quantity": 7,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Glove Iron Groom",
+        "quantity": 7,
+        "createdAt": "25/07/2023",
+        "updatedAt": "06/02/2024",
+        "unitCostPrice": 3000,
+        "unitSellingPrice": 4500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Drinker",
+    "quantity": 9,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Drinker",
+        "quantity": 9,
+        "createdAt": "07/10/2023",
+        "updatedAt": "07/10/2023",
+        "unitCostPrice": 400,
+        "unitSellingPrice": 800,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Choke Chain Double Hook",
+    "quantity": 3,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Choke Chain Double Hook",
+        "quantity": 3,
+        "createdAt": "07/10/2023",
+        "updatedAt": "26/10/2023",
+        "unitCostPrice": 3000,
+        "unitSellingPrice": 4000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Reo Tylodox 100g",
+    "quantity": 9,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Reo Tylodox 100g",
+        "quantity": 2,
+        "createdAt": "01/06/2023",
+        "updatedAt": "03/01/2024",
+        "unitCostPrice": 1200,
+        "unitSellingPrice": 1500,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Reo Tylodox 100g",
+        "quantity": 7,
+        "createdAt": "06/10/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 1200,
+        "unitSellingPrice": 1600,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Fast Growth Powder",
+    "quantity": 3,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Fast Growth Powder",
+        "quantity": 3,
+        "createdAt": "06/10/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 300,
+        "unitSellingPrice": 500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Bentonite Love Sand Litter 10kg ",
+    "quantity": 2,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Bentonite Love Sand Litter 10kg ",
+        "quantity": 2,
+        "createdAt": "02/06/2023",
+        "updatedAt": "22/12/2023",
+        "unitCostPrice": 9500,
+        "unitSellingPrice": 15000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "puppy collar",
+    "quantity": 50,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "puppy collar",
+        "quantity": 42,
+        "createdAt": "08/10/2023",
+        "updatedAt": "27/01/2024",
+        "unitCostPrice": 500,
+        "unitSellingPrice": 1000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "puppy collar",
+        "quantity": 8,
+        "createdAt": "07/10/2023",
+        "updatedAt": "10/02/2024",
+        "unitCostPrice": 500,
+        "unitSellingPrice": 1000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Maxiyield 2liter",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Maxiyield 2liter",
+        "quantity": 1,
+        "createdAt": "25/06/2023",
+        "updatedAt": "10/01/2024",
+        "unitCostPrice": 1200,
+        "unitSellingPrice": 2000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Caniverm Forte Tablet",
+    "quantity": 43,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Caniverm Forte Tablet",
+        "quantity": 43,
+        "createdAt": "25/06/2023",
+        "updatedAt": "10/02/2024",
+        "unitCostPrice": 300,
+        "unitSellingPrice": 500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Choke Chain 3mm",
+    "quantity": 5,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Choke Chain 3mm",
+        "quantity": 4,
+        "createdAt": "01/06/2023",
+        "updatedAt": "10/01/2024",
+        "unitCostPrice": 2000,
+        "unitSellingPrice": 3500,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Choke Chain 3mm",
+        "quantity": 1,
+        "createdAt": "07/10/2023",
+        "updatedAt": "07/10/2023",
+        "unitCostPrice": 2000,
+        "unitSellingPrice": 3500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Full Deworm",
+    "quantity": 48,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Full Deworm",
+        "quantity": 15,
+        "createdAt": "11/02/2024",
+        "updatedAt": "11/02/2024",
+        "unitCostPrice": 2400,
+        "unitSellingPrice": 4000,
+        "expiryDate": "11/02/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Full Deworm",
+        "quantity": 12,
+        "createdAt": "11/02/2024",
+        "updatedAt": "11/02/2024",
+        "unitCostPrice": 2400,
+        "unitSellingPrice": 4000,
+        "expiryDate": "11/02/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Full Deworm",
+        "quantity": 6,
+        "createdAt": "02/06/2023",
+        "updatedAt": "13/02/2024",
+        "unitCostPrice": 2400,
+        "unitSellingPrice": 4000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Choke Chain 4.5mm",
+    "quantity": 3,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Choke Chain 4.5mm",
+        "quantity": 1,
+        "createdAt": "07/10/2023",
+        "updatedAt": "16/01/2024",
+        "unitCostPrice": 4000,
+        "unitSellingPrice": 4500,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Choke Chain 4.5mm",
+        "quantity": 2,
+        "createdAt": "06/09/2023",
+        "updatedAt": "23/12/2023",
+        "unitCostPrice": 4000,
+        "unitSellingPrice": 4500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Anidone Viralforte 50g",
+    "quantity": 5,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Anidone Viralforte 50g",
+        "quantity": 1,
+        "createdAt": "25/06/2023",
+        "updatedAt": "03/01/2024",
+        "unitCostPrice": 300,
+        "unitSellingPrice": 500,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Anidone Viralforte 50g",
+        "quantity": 4,
+        "createdAt": "06/10/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 300,
+        "unitSellingPrice": 500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Booster Multivit 60tab",
+    "quantity": 9,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Booster Multivit 60tab",
+        "quantity": 8,
+        "createdAt": "06/09/2023",
+        "updatedAt": "02/01/2024",
+        "unitCostPrice": 16000,
+        "unitSellingPrice": 25000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Booster Multivit 60tab",
+        "quantity": 1,
+        "createdAt": "02/11/2023",
+        "updatedAt": "05/02/2024",
+        "unitCostPrice": 16000,
+        "unitSellingPrice": 25000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "go cat 340g",
+    "quantity": 24,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "go cat 340g",
+        "quantity": 6,
+        "createdAt": "01/02/2024",
+        "updatedAt": "01/02/2024",
+        "unitCostPrice": 4000,
+        "unitSellingPrice": 6000,
+        "expiryDate": "01/02/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Adult Leashe And Harness",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Adult Leashe And Harness",
+        "quantity": 1,
+        "createdAt": "02/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 4500,
+        "unitSellingPrice": 7000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "balance 15kg",
+    "quantity": 9,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "balance 15kg",
+        "quantity": 9,
+        "createdAt": "27/10/2023",
+        "updatedAt": "02/02/2024",
+        "unitCostPrice": 31000,
+        "unitSellingPrice": 36000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Royal Choice Can",
+    "quantity": 16,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Royal Choice Can",
+        "quantity": 16,
+        "createdAt": "24/06/2023",
+        "updatedAt": "10/02/2024",
+        "unitCostPrice": 1250,
+        "unitSellingPrice": 1600,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Hammer Toy",
+    "quantity": 4,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Hammer Toy",
+        "quantity": 4,
+        "createdAt": "01/06/2023",
+        "updatedAt": "01/02/2024",
+        "unitCostPrice": 1300,
+        "unitSellingPrice": 2800,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Jumbo Chain And Colar",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Jumbo Chain And Colar",
+        "quantity": 1,
+        "createdAt": "02/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 2500,
+        "unitSellingPrice": 4500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Padded Adult Colar",
+    "quantity": 3,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Padded Adult Colar",
+        "quantity": 3,
+        "createdAt": "07/10/2023",
+        "updatedAt": "07/10/2023",
+        "unitCostPrice": 2500,
+        "unitSellingPrice": 4000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Balance 1kg",
+    "quantity": 21,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Balance 1kg",
+        "quantity": 21,
+        "createdAt": "02/02/2024",
+        "updatedAt": "14/02/2024",
+        "unitCostPrice": 2000,
+        "unitSellingPrice": 2700,
+        "expiryDate": "02/02/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Choke Chain 5mm",
+    "quantity": 30,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Choke Chain 5mm",
+        "quantity": 15,
+        "createdAt": "10/01/2024",
+        "updatedAt": "10/01/2024",
+        "unitCostPrice": 2400,
+        "unitSellingPrice": 5500,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Choke Chain 5mm",
+        "quantity": 15,
+        "createdAt": "06/09/2023",
+        "updatedAt": "04/01/2024",
+        "unitCostPrice": 2400,
+        "unitSellingPrice": 5500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Diamond Puppy 3.6kg",
+    "quantity": 4,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Diamond Puppy 3.6kg",
+        "quantity": 3,
+        "createdAt": "27/10/2023",
+        "updatedAt": "02/02/2024",
+        "unitCostPrice": 10300,
+        "unitSellingPrice": 16000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Diamond Puppy 3.6kg",
+        "quantity": 1,
+        "createdAt": "06/10/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 10300,
+        "unitSellingPrice": 15000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Retractable Dog Leash Small",
+    "quantity": 2,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Retractable Dog Leash Small",
+        "quantity": 2,
+        "createdAt": "25/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 4000,
+        "unitSellingPrice": 5000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "jojo puppy can",
+    "quantity": 202,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "jojo puppy can",
+        "quantity": 74,
+        "createdAt": "29/05/2023",
+        "updatedAt": "13/02/2024",
+        "unitCostPrice": 1450,
+        "unitSellingPrice": 1900,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "jojo puppy can",
+        "quantity": 128,
+        "createdAt": "08/01/2024",
+        "updatedAt": "12/02/2024",
+        "unitCostPrice": 1450,
+        "unitSellingPrice": 1900,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "rc kitten 400g",
+    "quantity": 25,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "rc kitten 400g",
+        "quantity": 25,
+        "createdAt": "01/02/2024",
+        "updatedAt": "10/02/2024",
+        "unitCostPrice": 5000,
+        "unitSellingPrice": 12000,
+        "expiryDate": "01/02/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Pet Nail Cutter",
+    "quantity": 17,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Pet Nail Cutter",
+        "quantity": 17,
+        "createdAt": "25/06/2023",
+        "updatedAt": "10/01/2024",
+        "unitCostPrice": 2000,
+        "unitSellingPrice": 3000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "puppy leash",
+    "quantity": 10,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "puppy leash",
+        "quantity": 10,
+        "createdAt": "01/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 4000,
+        "unitSellingPrice": 4500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Megabooster 100g",
+    "quantity": 6,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Megabooster 100g",
+        "quantity": 2,
+        "createdAt": "06/10/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 600,
+        "unitSellingPrice": 1000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Megabooster 100g",
+        "quantity": 2,
+        "createdAt": "25/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 600,
+        "unitSellingPrice": 1000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "E-Colar Medium Size 3",
+    "quantity": 2,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "E-Colar Medium Size 3",
+        "quantity": 2,
+        "createdAt": "14/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 1800,
+        "unitSellingPrice": 3500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Puppy Paded Harness Leash ",
+    "quantity": 5,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Puppy Paded Harness Leash ",
+        "quantity": 5,
+        "createdAt": "07/10/2023",
+        "updatedAt": "07/10/2023",
+        "unitCostPrice": 4000,
+        "unitSellingPrice": 6000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "medium leash",
+    "quantity": 3,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "medium leash",
+        "quantity": 3,
+        "createdAt": "01/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 5000,
+        "unitSellingPrice": 6000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Zito Grooming Oil 500ml",
+    "quantity": 3,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Zito Grooming Oil 500ml",
+        "quantity": 1,
+        "createdAt": "04/12/2023",
+        "updatedAt": "01/02/2024",
+        "unitCostPrice": 2500,
+        "unitSellingPrice": 4000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Zito Grooming Oil 500ml",
+        "quantity": 2,
+        "createdAt": "24/06/2023",
+        "updatedAt": "04/02/2024",
+        "unitCostPrice": 2500,
+        "unitSellingPrice": 4000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Size 1 Cage",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Size 1 Cage",
+        "quantity": 1,
+        "createdAt": "26/01/2024",
+        "updatedAt": "26/01/2024",
+        "unitCostPrice": 23000,
+        "unitSellingPrice": 30000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Disposable Diaper Pcs",
+    "quantity": 10,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Disposable Diaper Pcs",
+        "quantity": 10,
+        "createdAt": "07/10/2023",
+        "updatedAt": "07/10/2023",
+        "unitCostPrice": 400,
+        "unitSellingPrice": 500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Zerokrim Pcs",
+    "quantity": 66,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Zerokrim Pcs",
+        "quantity": 40,
+        "createdAt": "12/01/2024",
+        "updatedAt": "12/01/2024",
+        "unitCostPrice": 200,
+        "unitSellingPrice": 600,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Zerokrim Pcs",
+        "quantity": 26,
+        "createdAt": "25/11/2023",
+        "updatedAt": "12/02/2024",
+        "unitCostPrice": 200,
+        "unitSellingPrice": 600,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Extreme Fipronil 250ml ",
+    "quantity": 3,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Extreme Fipronil 250ml ",
+        "quantity": 3,
+        "createdAt": "24/06/2023",
+        "updatedAt": "02/01/2024",
+        "unitCostPrice": 3800,
+        "unitSellingPrice": 6000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Hamid Tick Spray Big",
+    "quantity": 2,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Hamid Tick Spray Big",
+        "quantity": 2,
+        "createdAt": "08/01/2024",
+        "updatedAt": "14/01/2024",
+        "unitCostPrice": 1300,
+        "unitSellingPrice": 2800,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Pet Milk",
+    "quantity": 14,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Pet Milk",
+        "quantity": 5,
+        "createdAt": "08/01/2024",
+        "updatedAt": "12/02/2024",
+        "unitCostPrice": 450,
+        "unitSellingPrice": 1500,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Pet Milk",
+        "quantity": 9,
+        "createdAt": "02/01/2024",
+        "updatedAt": "05/02/2024",
+        "unitCostPrice": 450,
+        "unitSellingPrice": 1500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Petcool Daily Fresh 3kg",
+    "quantity": 7,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Petcool Daily Fresh 3kg",
+        "quantity": 7,
+        "createdAt": "07/09/2023",
+        "updatedAt": "10/01/2024",
+        "unitCostPrice": 7000,
+        "unitSellingPrice": 12000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Own Drug",
+    "quantity": 22,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Own Drug",
+        "quantity": 3,
+        "createdAt": "16/02/2024",
+        "updatedAt": "16/02/2024",
+        "unitCostPrice": 50,
+        "unitSellingPrice": 60,
+        "expiryDate": "16/02/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Own Drug",
+        "quantity": 10,
+        "createdAt": "16/02/2024",
+        "updatedAt": "16/02/2024",
+        "unitCostPrice": 50,
+        "unitSellingPrice": 60,
+        "expiryDate": "16/02/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Own Drug",
+        "quantity": 2,
+        "createdAt": "16/02/2024",
+        "updatedAt": "16/02/2024",
+        "unitCostPrice": 50,
+        "unitSellingPrice": 60,
+        "expiryDate": "16/02/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Own Drug",
+        "quantity": 1,
+        "createdAt": "16/02/2024",
+        "updatedAt": "16/02/2024",
+        "unitCostPrice": 50,
+        "unitSellingPrice": 60,
+        "expiryDate": "16/02/2025"
+      }
+    ]
+  },
+  {
+    "_id": "6mm Kennel Chain",
+    "quantity": 4,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "6mm Kennel Chain",
+        "quantity": 4,
+        "createdAt": "08/09/2023",
+        "updatedAt": "13/02/2024",
+        "unitCostPrice": 5200,
+        "unitSellingPrice": 8000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Wings Pink Harness",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Wings Pink Harness",
+        "quantity": 1,
+        "createdAt": "07/10/2023",
+        "updatedAt": "07/10/2023",
+        "unitCostPrice": 5000,
+        "unitSellingPrice": 7500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Zito Shampoo 250ml",
+    "quantity": 3,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Zito Shampoo 250ml",
+        "quantity": 2,
+        "createdAt": "06/10/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 450,
+        "unitSellingPrice": 1500,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Zito Shampoo 250ml",
+        "quantity": 1,
+        "createdAt": "27/10/2023",
+        "updatedAt": "02/01/2024",
+        "unitCostPrice": 450,
+        "unitSellingPrice": 1500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Poisoning ",
+    "quantity": 9,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Poisoning ",
+        "quantity": 4,
+        "createdAt": "10/11/2023",
+        "updatedAt": "10/11/2023",
+        "unitCostPrice": 2000,
+        "unitSellingPrice": 7000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Poisoning ",
+        "quantity": 5,
+        "createdAt": "13/11/2023",
+        "updatedAt": "13/11/2023",
+        "unitCostPrice": 2000,
+        "unitSellingPrice": 7000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Iron Rake Big",
+    "quantity": 2,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Iron Rake Big",
+        "quantity": 2,
+        "createdAt": "07/10/2023",
+        "updatedAt": "07/10/2023",
+        "unitCostPrice": 4000,
+        "unitSellingPrice": 5000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Ball Toy Tennis",
+    "quantity": 12,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Ball Toy Tennis",
+        "quantity": 3,
+        "createdAt": "07/10/2023",
+        "updatedAt": "24/11/2023",
+        "unitCostPrice": 600,
+        "unitSellingPrice": 2000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Ball Toy Tennis",
+        "quantity": 9,
+        "createdAt": "01/06/2023",
+        "updatedAt": "01/02/2024",
+        "unitCostPrice": 600,
+        "unitSellingPrice": 2000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Xtopher Chemical",
+    "quantity": 8,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Xtopher Chemical",
+        "quantity": 4,
+        "createdAt": "25/11/2023",
+        "updatedAt": "25/11/2023",
+        "unitCostPrice": 900,
+        "unitSellingPrice": 2500,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Xtopher Chemical",
+        "quantity": 4,
+        "createdAt": "31/05/2023",
+        "updatedAt": "14/02/2024",
+        "unitCostPrice": 900,
+        "unitSellingPrice": 2000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "G-Xin Viral 250ml",
+    "quantity": 5,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "G-Xin Viral 250ml",
+        "quantity": 5,
+        "createdAt": "06/10/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 800,
+        "unitSellingPrice": 1500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Xtopher Shampoo 500ml",
+    "quantity": 177,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Xtopher Shampoo 500ml",
+        "quantity": 1,
+        "createdAt": "06/10/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 800,
+        "unitSellingPrice": 2000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Xtopher Shampoo 500ml",
+        "quantity": 10,
+        "createdAt": "06/08/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 800,
+        "unitSellingPrice": 1500,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Xtopher Shampoo 500ml",
+        "quantity": 6,
+        "createdAt": "06/08/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 800,
+        "unitSellingPrice": 1500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Peace Shampoo 500ml",
+    "quantity": 130,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Peace Shampoo 500ml",
+        "quantity": 3,
+        "createdAt": "06/10/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 900,
+        "unitSellingPrice": 2500,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Peace Shampoo 500ml",
+        "quantity": 10,
+        "createdAt": "06/09/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 900,
+        "unitSellingPrice": 1500,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Peace Shampoo 500ml",
+        "quantity": 7,
+        "createdAt": "06/09/2023",
+        "updatedAt": "07/11/2023",
+        "unitCostPrice": 900,
+        "unitSellingPrice": 1500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Foreign Harness Small",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Foreign Harness Small",
+        "quantity": 1,
+        "createdAt": "25/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 5000,
+        "unitSellingPrice": 6000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "vetzyme multivit",
+    "quantity": 54,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "vetzyme multivit",
+        "quantity": 6,
+        "createdAt": "06/10/2023",
+        "updatedAt": "13/11/2023",
+        "unitCostPrice": 8000,
+        "unitSellingPrice": 10000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "vetzyme multivit",
+        "quantity": 10,
+        "createdAt": "04/02/2024",
+        "updatedAt": "04/02/2024",
+        "unitCostPrice": 8000,
+        "unitSellingPrice": 10000,
+        "expiryDate": "04/02/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "vetzyme multivit",
+        "quantity": 8,
+        "createdAt": "04/02/2024",
+        "updatedAt": "13/02/2024",
+        "unitCostPrice": 8000,
+        "unitSellingPrice": 10000,
+        "expiryDate": "04/02/2025"
+      }
+    ]
+  },
+  {
+    "_id": "sawke cream",
+    "quantity": 11,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "sawke cream",
+        "quantity": 8,
+        "createdAt": "06/10/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 1000,
+        "unitSellingPrice": 1500,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "sawke cream",
+        "quantity": 3,
+        "createdAt": "01/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 1000,
+        "unitSellingPrice": 1200,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "dog carrier medium",
+    "quantity": 2,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "dog carrier medium",
+        "quantity": 2,
+        "createdAt": "04/02/2024",
+        "updatedAt": "05/02/2024",
+        "unitCostPrice": 20000,
+        "unitSellingPrice": 30000,
+        "expiryDate": "04/02/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Puppy Paded Colar",
+    "quantity": 21,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Puppy Paded Colar",
+        "quantity": 21,
+        "createdAt": "02/06/2023",
+        "updatedAt": "12/01/2024",
+        "unitCostPrice": 1000,
+        "unitSellingPrice": 2000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Size 2 Cage",
+    "quantity": 5,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Size 2 Cage",
+        "quantity": 3,
+        "createdAt": "27/10/2023",
+        "updatedAt": "03/02/2024",
+        "unitCostPrice": 36000,
+        "unitSellingPrice": 48000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Size 2 Cage",
+        "quantity": 2,
+        "createdAt": "12/01/2024",
+        "updatedAt": "05/02/2024",
+        "unitCostPrice": 29000,
+        "unitSellingPrice": 48000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Anidone Ca-4 50g",
+    "quantity": 12,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Anidone Ca-4 50g",
+        "quantity": 2,
+        "createdAt": "25/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 500,
+        "unitSellingPrice": 600,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Padded Puppy Harness Leash",
+    "quantity": 3,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Padded Puppy Harness Leash",
+        "quantity": 3,
+        "createdAt": "02/06/2023",
+        "updatedAt": "20/12/2023",
+        "unitCostPrice": 2000,
+        "unitSellingPrice": 5000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Vitamaxx 50g",
+    "quantity": 3,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Vitamaxx 50g",
+        "quantity": 3,
+        "createdAt": "25/06/2023",
+        "updatedAt": "03/01/2024",
+        "unitCostPrice": 300,
+        "unitSellingPrice": 500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "rc giant puppy 3.5kg",
+    "quantity": 27,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "rc giant puppy 3.5kg",
+        "quantity": 27,
+        "createdAt": "06/09/2023",
+        "updatedAt": "10/02/2024",
+        "unitCostPrice": 25400,
+        "unitSellingPrice": 49000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Ehlichia TeSt Kit",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Ehlichia TeSt Kit",
+        "quantity": 1,
+        "createdAt": "02/06/2023",
+        "updatedAt": "01/02/2024",
+        "unitCostPrice": 3000,
+        "unitSellingPrice": 5500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Fisacox 50g",
+    "quantity": 12,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Fisacox 50g",
+        "quantity": 5,
+        "createdAt": "01/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 250,
+        "unitSellingPrice": 450,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Fisacox 50g",
+        "quantity": 7,
+        "createdAt": "06/10/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 250,
+        "unitSellingPrice": 500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "aventis puppy 15kg",
+    "quantity": 12,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "aventis puppy 15kg",
+        "quantity": 1,
+        "createdAt": "06/10/2023",
+        "updatedAt": "26/10/2023",
+        "unitCostPrice": 34500,
+        "unitSellingPrice": 45000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "aventis puppy 15kg",
+        "quantity": 11,
+        "createdAt": "07/09/2023",
+        "updatedAt": "10/02/2024",
+        "unitCostPrice": 34500,
+        "unitSellingPrice": 46000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "34cm stainless plate",
+    "quantity": 12,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "34cm stainless plate",
+        "quantity": 2,
+        "createdAt": "07/10/2023",
+        "updatedAt": "07/10/2023",
+        "unitCostPrice": 3000,
+        "unitSellingPrice": 5000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "34cm stainless plate",
+        "quantity": 10,
+        "createdAt": "04/02/2024",
+        "updatedAt": "09/02/2024",
+        "unitCostPrice": 3000,
+        "unitSellingPrice": 5500,
+        "expiryDate": "04/02/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Drip Full Discounted",
+    "quantity": 3,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Drip Full Discounted",
+        "quantity": 3,
+        "createdAt": "26/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 5000,
+        "unitSellingPrice": 8000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Anidone Glucose 50g",
+    "quantity": 3,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Anidone Glucose 50g",
+        "quantity": 3,
+        "createdAt": "25/06/2023",
+        "updatedAt": "03/01/2024",
+        "unitCostPrice": 300,
+        "unitSellingPrice": 500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Puppy Chow 1kg",
+    "quantity": 13,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Puppy Chow 1kg",
+        "quantity": 7,
+        "createdAt": "07/10/2023",
+        "updatedAt": "11/10/2023",
+        "unitCostPrice": 2500,
+        "unitSellingPrice": 2800,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Puppy Chow 1kg",
+        "quantity": 6,
+        "createdAt": "27/01/2024",
+        "updatedAt": "09/02/2024",
+        "unitCostPrice": 2500,
+        "unitSellingPrice": 3500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "aventis mini 2kg",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "aventis mini 2kg",
+        "quantity": 1,
+        "createdAt": "29/05/2023",
+        "updatedAt": "26/10/2023",
+        "unitCostPrice": 8600,
+        "unitSellingPrice": 12000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Anchococ Anticoccidiosis 50g",
+    "quantity": 2,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Anchococ Anticoccidiosis 50g",
+        "quantity": 2,
+        "createdAt": "25/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 300,
+        "unitSellingPrice": 500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Rc Sensible 2kg",
+    "quantity": 3,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Rc Sensible 2kg",
+        "quantity": 2,
+        "createdAt": "03/01/2024",
+        "updatedAt": "10/02/2024",
+        "unitCostPrice": 21000,
+        "unitSellingPrice": 36000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Rc Sensible 2kg",
+        "quantity": 1,
+        "createdAt": "08/01/2024",
+        "updatedAt": "10/02/2024",
+        "unitCostPrice": 21000,
+        "unitSellingPrice": 36000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Mixed Indomie",
+    "quantity": 72,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Mixed Indomie",
+        "quantity": 69,
+        "createdAt": "06/08/2023",
+        "updatedAt": "14/02/2024",
+        "unitCostPrice": 1000,
+        "unitSellingPrice": 1200,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Mixed Indomie",
+        "quantity": 3,
+        "createdAt": "13/12/2023",
+        "updatedAt": "13/02/2024",
+        "unitCostPrice": 1000,
+        "unitSellingPrice": 1200,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "26cm stainless plate",
+    "quantity": 3,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "26cm stainless plate",
+        "quantity": 3,
+        "createdAt": "04/02/2024",
+        "updatedAt": "14/02/2024",
+        "unitCostPrice": 2500,
+        "unitSellingPrice": 4000,
+        "expiryDate": "04/02/2025"
+      }
+    ]
+  },
+  {
+    "_id": "bully max pack",
+    "quantity": 3,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "bully max pack",
+        "quantity": 1,
+        "createdAt": "06/10/2023",
+        "updatedAt": "07/10/2023",
+        "unitCostPrice": 23000,
+        "unitSellingPrice": 28000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "bully max pack",
+        "quantity": 2,
+        "createdAt": "24/06/2023",
+        "updatedAt": "02/01/2024",
+        "unitCostPrice": 23000,
+        "unitSellingPrice": 27000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Antithrax Chemical",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Antithrax Chemical",
+        "quantity": 1,
+        "createdAt": "14/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 850,
+        "unitSellingPrice": 2000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Softgot Albendable Bolus 250mg",
+    "quantity": 12,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Softgot Albendable Bolus 250mg",
+        "quantity": 9,
+        "createdAt": "22/10/2023",
+        "updatedAt": "22/10/2023",
+        "unitCostPrice": 150,
+        "unitSellingPrice": 250,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Softgot Albendable Bolus 250mg",
+        "quantity": 3,
+        "createdAt": "25/06/2023",
+        "updatedAt": "10/01/2024",
+        "unitCostPrice": 150,
+        "unitSellingPrice": 250,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Anidone Anticoccidosis 50g",
+    "quantity": 3,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Anidone Anticoccidosis 50g",
+        "quantity": 3,
+        "createdAt": "25/06/2023",
+        "updatedAt": "03/01/2024",
+        "unitCostPrice": 400,
+        "unitSellingPrice": 600,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Tick Powder",
+    "quantity": 2,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Tick Powder",
+        "quantity": 2,
+        "createdAt": "18/12/2023",
+        "updatedAt": "01/02/2024",
+        "unitCostPrice": 600,
+        "unitSellingPrice": 1200,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Size 3 Cage",
+    "quantity": 31,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Size 3 Cage",
+        "quantity": 2,
+        "createdAt": "12/01/2024",
+        "updatedAt": "01/02/2024",
+        "unitCostPrice": 46000,
+        "unitSellingPrice": 58000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Size 3 Cage",
+        "quantity": 3,
+        "createdAt": "04/02/2024",
+        "updatedAt": "04/02/2024",
+        "unitCostPrice": 47000,
+        "unitSellingPrice": 58000,
+        "expiryDate": "04/02/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Size 3 Cage",
+        "quantity": 2,
+        "createdAt": "03/02/2024",
+        "updatedAt": "03/02/2024",
+        "unitCostPrice": 46000,
+        "unitSellingPrice": 58000,
+        "expiryDate": "03/02/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Inflamed Leg Treatment ",
+    "quantity": 13,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Inflamed Leg Treatment ",
+        "quantity": 3,
+        "createdAt": "27/10/2023",
+        "updatedAt": "11/02/2024",
+        "unitCostPrice": 1500,
+        "unitSellingPrice": 2500,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Inflamed Leg Treatment ",
+        "quantity": 10,
+        "createdAt": "02/06/2023",
+        "updatedAt": "10/01/2024",
+        "unitCostPrice": 1500,
+        "unitSellingPrice": 3500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "petcool cat 3kg",
+    "quantity": 7,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "petcool cat 3kg",
+        "quantity": 7,
+        "createdAt": "07/09/2023",
+        "updatedAt": "01/02/2024",
+        "unitCostPrice": 7700,
+        "unitSellingPrice": 15000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "sawke solution 200ml",
+    "quantity": 6,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "sawke solution 200ml",
+        "quantity": 4,
+        "createdAt": "01/06/2023",
+        "updatedAt": "02/01/2024",
+        "unitCostPrice": 2500,
+        "unitSellingPrice": 3000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "sawke solution 200ml",
+        "quantity": 2,
+        "createdAt": "06/10/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 2500,
+        "unitSellingPrice": 3000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Petcool Junior 3kg",
+    "quantity": 8,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Petcool Junior 3kg",
+        "quantity": 3,
+        "createdAt": "07/09/2023",
+        "updatedAt": "12/12/2023",
+        "unitCostPrice": 7700,
+        "unitSellingPrice": 13000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Petcool Junior 3kg",
+        "quantity": 5,
+        "createdAt": "06/10/2023",
+        "updatedAt": "26/10/2023",
+        "unitCostPrice": 9000,
+        "unitSellingPrice": 14000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "34cm Colored Bone Plate",
+    "quantity": 5,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "34cm Colored Bone Plate",
+        "quantity": 5,
+        "createdAt": "24/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 5000,
+        "unitSellingPrice": 6500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Dhlpp Zoetis",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Dhlpp Zoetis",
+        "quantity": 1,
+        "createdAt": "23/12/2023",
+        "updatedAt": "23/12/2023",
+        "unitCostPrice": 4000,
+        "unitSellingPrice": 7000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Nature Protection Puppy Can",
+    "quantity": 35,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Nature Protection Puppy Can",
+        "quantity": 35,
+        "createdAt": "27/01/2024",
+        "updatedAt": "02/02/2024",
+        "unitCostPrice": 1600,
+        "unitSellingPrice": 2800,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "booster puppy 4kg",
+    "quantity": 18,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "booster puppy 4kg",
+        "quantity": 7,
+        "createdAt": "27/10/2023",
+        "updatedAt": "08/02/2024",
+        "unitCostPrice": 15000,
+        "unitSellingPrice": 22000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "booster puppy 4kg",
+        "quantity": 2,
+        "createdAt": "31/01/2024",
+        "updatedAt": "31/01/2024",
+        "unitCostPrice": 17000,
+        "unitSellingPrice": 22000,
+        "expiryDate": "31/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "booster puppy 4kg",
+        "quantity": 1,
+        "createdAt": "02/11/2023",
+        "updatedAt": "30/01/2024",
+        "unitCostPrice": 17000,
+        "unitSellingPrice": 22000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Feeding Bottle",
+    "quantity": 58,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Feeding Bottle",
+        "quantity": 1,
+        "createdAt": "05/02/2024",
+        "updatedAt": "05/02/2024",
+        "unitCostPrice": 2500,
+        "unitSellingPrice": 3500,
+        "expiryDate": "05/02/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Feeding Bottle",
+        "quantity": 2,
+        "createdAt": "25/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 2500,
+        "unitSellingPrice": 3000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Feeding Bottle",
+        "quantity": 5,
+        "createdAt": "04/02/2024",
+        "updatedAt": "04/02/2024",
+        "unitCostPrice": 2500,
+        "unitSellingPrice": 3500,
+        "expiryDate": "04/02/2025"
+      }
+    ]
+  },
+  {
+    "_id": "k9 multivit",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "k9 multivit",
+        "quantity": 1,
+        "createdAt": "24/06/2023",
+        "updatedAt": "02/01/2024",
+        "unitCostPrice": 4500,
+        "unitSellingPrice": 6000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "booster adult 15kg",
+    "quantity": 35,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "booster adult 15kg",
+        "quantity": 22,
+        "createdAt": "31/01/2024",
+        "updatedAt": "08/02/2024",
+        "unitCostPrice": 33000,
+        "unitSellingPrice": 58500,
+        "expiryDate": "31/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "booster adult 15kg",
+        "quantity": 13,
+        "createdAt": "27/10/2023",
+        "updatedAt": "09/02/2024",
+        "unitCostPrice": 43500,
+        "unitSellingPrice": 58500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Glucose Small Sachet",
+    "quantity": 20,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Glucose Small Sachet",
+        "quantity": 20,
+        "createdAt": "31/01/2024",
+        "updatedAt": "06/02/2024",
+        "unitCostPrice": 120,
+        "unitSellingPrice": 200,
+        "expiryDate": "31/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "zito grooming oil 1litre",
+    "quantity": 4,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "zito grooming oil 1litre",
+        "quantity": 4,
+        "createdAt": "24/06/2023",
+        "updatedAt": "05/02/2024",
+        "unitCostPrice": 4500,
+        "unitSellingPrice": 6000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "medium collar",
+    "quantity": 30,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "medium collar",
+        "quantity": 1,
+        "createdAt": "02/11/2023",
+        "updatedAt": "18/01/2024",
+        "unitCostPrice": 600,
+        "unitSellingPrice": 1000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "medium collar",
+        "quantity": 17,
+        "createdAt": "08/10/2023",
+        "updatedAt": "12/02/2024",
+        "unitCostPrice": 600,
+        "unitSellingPrice": 1200,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "medium collar",
+        "quantity": 12,
+        "createdAt": "18/12/2023",
+        "updatedAt": "18/12/2023",
+        "unitCostPrice": 600,
+        "unitSellingPrice": 1400,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Aventis Puppy 3kg",
+    "quantity": 9,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Aventis Puppy 3kg",
+        "quantity": 1,
+        "createdAt": "21/12/2023",
+        "updatedAt": "21/12/2023",
+        "unitCostPrice": 8600,
+        "unitSellingPrice": 13500,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Aventis Puppy 3kg",
+        "quantity": 8,
+        "createdAt": "07/09/2023",
+        "updatedAt": "19/12/2023",
+        "unitCostPrice": 8600,
+        "unitSellingPrice": 13500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Padded Medium Leash With Colar",
+    "quantity": 16,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Padded Medium Leash With Colar",
+        "quantity": 16,
+        "createdAt": "25/06/2023",
+        "updatedAt": "12/02/2024",
+        "unitCostPrice": 2500,
+        "unitSellingPrice": 3800,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "basket",
+    "quantity": 5,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "basket",
+        "quantity": 5,
+        "createdAt": "10/11/2023",
+        "updatedAt": "12/02/2024",
+        "unitCostPrice": 4000,
+        "unitSellingPrice": 6000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Rc Kitten 400g ",
+    "quantity": 2,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Rc Kitten 400g ",
+        "quantity": 2,
+        "createdAt": "08/01/2024",
+        "updatedAt": "10/02/2024",
+        "unitCostPrice": 6000,
+        "unitSellingPrice": 12000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "4mm Kennel Chain",
+    "quantity": 8,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "4mm Kennel Chain",
+        "quantity": 8,
+        "createdAt": "10/01/2024",
+        "updatedAt": "09/02/2024",
+        "unitCostPrice": 4000,
+        "unitSellingPrice": 5000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Mouth Guard Rubber Size 2",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Mouth Guard Rubber Size 2",
+        "quantity": 1,
+        "createdAt": "07/10/2023",
+        "updatedAt": "07/10/2023",
+        "unitCostPrice": 2000,
+        "unitSellingPrice": 2500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Adjustable Puppy Colar",
+    "quantity": 12,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Adjustable Puppy Colar",
+        "quantity": 4,
+        "createdAt": "07/10/2023",
+        "updatedAt": "15/11/2023",
+        "unitCostPrice": 400,
+        "unitSellingPrice": 1200,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Adjustable Puppy Colar",
+        "quantity": 8,
+        "createdAt": "02/06/2023",
+        "updatedAt": "26/10/2023",
+        "unitCostPrice": 400,
+        "unitSellingPrice": 1000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "4mm Chain Leash",
+    "quantity": 18,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "4mm Chain Leash",
+        "quantity": 3,
+        "createdAt": "06/08/2023",
+        "updatedAt": "04/11/2023",
+        "unitCostPrice": 2000,
+        "unitSellingPrice": 4000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "4mm Chain Leash",
+        "quantity": 1,
+        "createdAt": "07/10/2023",
+        "updatedAt": "10/02/2024",
+        "unitCostPrice": 2000,
+        "unitSellingPrice": 4500,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "4mm Chain Leash",
+        "quantity": 7,
+        "createdAt": "06/08/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 2000,
+        "unitSellingPrice": 4000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Iverpraz Pcs",
+    "quantity": 47,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Iverpraz Pcs",
+        "quantity": 23,
+        "createdAt": "07/10/2023",
+        "updatedAt": "05/12/2023",
+        "unitCostPrice": 140,
+        "unitSellingPrice": 350,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Iverpraz Pcs",
+        "quantity": 24,
+        "createdAt": "01/06/2023",
+        "updatedAt": "02/01/2024",
+        "unitCostPrice": 140,
+        "unitSellingPrice": 300,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Padded Jumbo Colar",
+    "quantity": 9,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Padded Jumbo Colar",
+        "quantity": 3,
+        "createdAt": "02/06/2023",
+        "updatedAt": "10/01/2024",
+        "unitCostPrice": 3500,
+        "unitSellingPrice": 5000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Padded Jumbo Colar",
+        "quantity": 6,
+        "createdAt": "07/10/2023",
+        "updatedAt": "12/02/2024",
+        "unitCostPrice": 3500,
+        "unitSellingPrice": 5000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Albenor 1 Liter",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Albenor 1 Liter",
+        "quantity": 1,
+        "createdAt": "06/10/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 2000,
+        "unitSellingPrice": 2500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Premium Cat Kitten",
+    "quantity": 20,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Premium Cat Kitten",
+        "quantity": 5,
+        "createdAt": "04/02/2024",
+        "updatedAt": "04/02/2024",
+        "unitCostPrice": 16500,
+        "unitSellingPrice": 20000,
+        "expiryDate": "04/02/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Treatment Half Deworm",
+    "quantity": 5,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Treatment Half Deworm",
+        "quantity": 5,
+        "createdAt": "10/10/2023",
+        "updatedAt": "18/11/2023",
+        "unitCostPrice": 900,
+        "unitSellingPrice": 2500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Antibiotics L.A Nd Mult ",
+    "quantity": 10,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Antibiotics L.A Nd Mult ",
+        "quantity": 1,
+        "createdAt": "02/06/2023",
+        "updatedAt": "10/02/2024",
+        "unitCostPrice": 1500,
+        "unitSellingPrice": 2000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Antibiotics L.A Nd Mult ",
+        "quantity": 9,
+        "createdAt": "10/10/2023",
+        "updatedAt": "27/10/2023",
+        "unitCostPrice": 1500,
+        "unitSellingPrice": 2000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "bully max single",
+    "quantity": 5,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "bully max single",
+        "quantity": 5,
+        "createdAt": "29/05/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 400,
+        "unitSellingPrice": 600,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Ball Toy Big",
+    "quantity": 108,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Ball Toy Big",
+        "quantity": 5,
+        "createdAt": "04/02/2024",
+        "updatedAt": "04/02/2024",
+        "unitCostPrice": 3000,
+        "unitSellingPrice": 3500,
+        "expiryDate": "04/02/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Ball Toy Big",
+        "quantity": 3,
+        "createdAt": "04/02/2024",
+        "updatedAt": "10/02/2024",
+        "unitCostPrice": 3000,
+        "unitSellingPrice": 3500,
+        "expiryDate": "04/02/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Choke Chain 3.5mm",
+    "quantity": 3,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Choke Chain 3.5mm",
+        "quantity": 3,
+        "createdAt": "25/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 3000,
+        "unitSellingPrice": 4000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "fly repellant",
+    "quantity": 54,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "fly repellant",
+        "quantity": 4,
+        "createdAt": "06/10/2023",
+        "updatedAt": "14/02/2024",
+        "unitCostPrice": 380,
+        "unitSellingPrice": 1000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "fly repellant",
+        "quantity": 50,
+        "createdAt": "05/08/2023",
+        "updatedAt": "09/02/2024",
+        "unitCostPrice": 380,
+        "unitSellingPrice": 1000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Antibiotics 2 Nd Mult",
+    "quantity": 11,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Antibiotics 2 Nd Mult",
+        "quantity": 1,
+        "createdAt": "02/06/2023",
+        "updatedAt": "03/02/2024",
+        "unitCostPrice": 1200,
+        "unitSellingPrice": 2500,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Antibiotics 2 Nd Mult",
+        "quantity": 10,
+        "createdAt": "10/10/2023",
+        "updatedAt": "10/10/2023",
+        "unitCostPrice": 1200,
+        "unitSellingPrice": 2500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "5mm Stainless Chain",
+    "quantity": 18,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "5mm Stainless Chain",
+        "quantity": 2,
+        "createdAt": "07/10/2023",
+        "updatedAt": "07/10/2023",
+        "unitCostPrice": 4500,
+        "unitSellingPrice": 5500,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "5mm Stainless Chain",
+        "quantity": 16,
+        "createdAt": "06/09/2023",
+        "updatedAt": "13/02/2024",
+        "unitCostPrice": 4500,
+        "unitSellingPrice": 5500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Reo Broiler Booster 100g",
+    "quantity": 19,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Reo Broiler Booster 100g",
+        "quantity": 9,
+        "createdAt": "25/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 600,
+        "unitSellingPrice": 1000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Reo Broiler Booster 100g",
+        "quantity": 10,
+        "createdAt": "06/10/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 600,
+        "unitSellingPrice": 1200,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "optimax 15kg",
+    "quantity": 7,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "optimax 15kg",
+        "quantity": 7,
+        "createdAt": "03/01/2024",
+        "updatedAt": "08/02/2024",
+        "unitCostPrice": 25000,
+        "unitSellingPrice": 45000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "medium mouthguard",
+    "quantity": 39,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "medium mouthguard",
+        "quantity": 38,
+        "createdAt": "09/10/2023",
+        "updatedAt": "04/01/2024",
+        "unitCostPrice": 1000,
+        "unitSellingPrice": 1500,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "medium mouthguard",
+        "quantity": 1,
+        "createdAt": "07/10/2023",
+        "updatedAt": "10/11/2023",
+        "unitCostPrice": 1000,
+        "unitSellingPrice": 1500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "kcvite multivit 200ml",
+    "quantity": 21,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "kcvite multivit 200ml",
+        "quantity": 3,
+        "createdAt": "06/10/2023",
+        "updatedAt": "05/02/2024",
+        "unitCostPrice": 1700,
+        "unitSellingPrice": 3000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "kcvite multivit 200ml",
+        "quantity": 18,
+        "createdAt": "21/12/2023",
+        "updatedAt": "01/02/2024",
+        "unitCostPrice": 2000,
+        "unitSellingPrice": 3000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Fiprotix Spray 250mls",
+    "quantity": 2,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Fiprotix Spray 250mls",
+        "quantity": 2,
+        "createdAt": "02/11/2023",
+        "updatedAt": "05/02/2024",
+        "unitCostPrice": 3500,
+        "unitSellingPrice": 4500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Tyloplus 50g",
+    "quantity": 16,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Tyloplus 50g",
+        "quantity": 4,
+        "createdAt": "25/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 500,
+        "unitSellingPrice": 600,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Grooming Hair Only",
+    "quantity": 5,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Grooming Hair Only",
+        "quantity": 5,
+        "createdAt": "10/10/2023",
+        "updatedAt": "10/10/2023",
+        "unitCostPrice": 1500,
+        "unitSellingPrice": 3500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Padded Puppy Colar",
+    "quantity": 75,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Padded Puppy Colar",
+        "quantity": 75,
+        "createdAt": "02/06/2023",
+        "updatedAt": "02/01/2024",
+        "unitCostPrice": 1000,
+        "unitSellingPrice": 1600,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Studed/Padded Jumbo Colar",
+    "quantity": 2,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Studed/Padded Jumbo Colar",
+        "quantity": 2,
+        "createdAt": "02/06/2023",
+        "updatedAt": "01/02/2024",
+        "unitCostPrice": 3500,
+        "unitSellingPrice": 5500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Calciplus 1liter",
+    "quantity": 8,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Calciplus 1liter",
+        "quantity": 7,
+        "createdAt": "01/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 2250,
+        "unitSellingPrice": 3200,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Calciplus 1liter",
+        "quantity": 1,
+        "createdAt": "06/10/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 2250,
+        "unitSellingPrice": 3500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Jojo Puppy 4kg",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Jojo Puppy 4kg",
+        "quantity": 1,
+        "createdAt": "28/01/2024",
+        "updatedAt": "13/02/2024",
+        "unitCostPrice": 12000,
+        "unitSellingPrice": 18000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Cat Litter 10kg",
+    "quantity": 3,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Cat Litter 10kg",
+        "quantity": 3,
+        "createdAt": "27/10/2023",
+        "updatedAt": "03/01/2024",
+        "unitCostPrice": 10000,
+        "unitSellingPrice": 16000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "petcool junior 1kg",
+    "quantity": 1138,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "petcool junior 1kg",
+        "quantity": 13,
+        "createdAt": "08/01/2024",
+        "updatedAt": "08/02/2024",
+        "unitCostPrice": 1800,
+        "unitSellingPrice": 3200,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "petcool junior 1kg",
+        "quantity": 1125,
+        "createdAt": "07/09/2023",
+        "updatedAt": "14/02/2024",
+        "unitCostPrice": 2300,
+        "unitSellingPrice": 3200,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "3mm Chain Leash",
+    "quantity": 36,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "3mm Chain Leash",
+        "quantity": 2,
+        "createdAt": "18/12/2023",
+        "updatedAt": "18/12/2023",
+        "unitCostPrice": 2000,
+        "unitSellingPrice": 3500,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "3mm Chain Leash",
+        "quantity": 10,
+        "createdAt": "06/08/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 2000,
+        "unitSellingPrice": 3000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "3mm Chain Leash",
+        "quantity": 4,
+        "createdAt": "06/08/2023",
+        "updatedAt": "09/12/2023",
+        "unitCostPrice": 2000,
+        "unitSellingPrice": 3000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Agriproject Adult Mouthguard",
+    "quantity": 6,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Agriproject Adult Mouthguard",
+        "quantity": 5,
+        "createdAt": "07/10/2023",
+        "updatedAt": "07/10/2023",
+        "unitCostPrice": 1500,
+        "unitSellingPrice": 2500,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Agriproject Adult Mouthguard",
+        "quantity": 1,
+        "createdAt": "01/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 1500,
+        "unitSellingPrice": 2500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Padded Puppy Leash With Colar",
+    "quantity": 17,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Padded Puppy Leash With Colar",
+        "quantity": 17,
+        "createdAt": "08/10/2023",
+        "updatedAt": "10/02/2024",
+        "unitCostPrice": 1500,
+        "unitSellingPrice": 2500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Rc Mini Puppy 800g",
+    "quantity": 5,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Rc Mini Puppy 800g",
+        "quantity": 5,
+        "createdAt": "06/09/2023",
+        "updatedAt": "10/02/2024",
+        "unitCostPrice": 10000,
+        "unitSellingPrice": 17500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Premium Cat Adult",
+    "quantity": 6,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Premium Cat Adult",
+        "quantity": 2,
+        "createdAt": "04/02/2024",
+        "updatedAt": "04/02/2024",
+        "unitCostPrice": 15000,
+        "unitSellingPrice": 19000,
+        "expiryDate": "04/02/2025"
+      }
+    ]
+  },
+  {
+    "_id": "adult leash",
+    "quantity": 12,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "adult leash",
+        "quantity": 2,
+        "createdAt": "05/02/2024",
+        "updatedAt": "05/02/2024",
+        "unitCostPrice": 6000,
+        "unitSellingPrice": 7000,
+        "expiryDate": "05/02/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "adult leash",
+        "quantity": 5,
+        "createdAt": "01/06/2023",
+        "updatedAt": "22/12/2023",
+        "unitCostPrice": 6000,
+        "unitSellingPrice": 7000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "adult leash",
+        "quantity": 3,
+        "createdAt": "27/10/2023",
+        "updatedAt": "27/10/2023",
+        "unitCostPrice": 6000,
+        "unitSellingPrice": 7000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "adult leash",
+        "quantity": 2,
+        "createdAt": "07/10/2023",
+        "updatedAt": "05/02/2024",
+        "unitCostPrice": 6000,
+        "unitSellingPrice": 7000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Iron Rake Jumbo",
+    "quantity": 65,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Iron Rake Jumbo",
+        "quantity": 5,
+        "createdAt": "04/02/2024",
+        "updatedAt": "04/02/2024",
+        "unitCostPrice": 3500,
+        "unitSellingPrice": 6000,
+        "expiryDate": "04/02/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Iron Rake Jumbo",
+        "quantity": 55,
+        "createdAt": "01/06/2023",
+        "updatedAt": "02/01/2024",
+        "unitCostPrice": 3500,
+        "unitSellingPrice": 6000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "30cm stainless plate",
+    "quantity": 14,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "30cm stainless plate",
+        "quantity": 14,
+        "createdAt": "04/02/2024",
+        "updatedAt": "09/02/2024",
+        "unitCostPrice": 3000,
+        "unitSellingPrice": 4800,
+        "expiryDate": "04/02/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Jojo Belami Cat Can ",
+    "quantity": 27,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Jojo Belami Cat Can ",
+        "quantity": 27,
+        "createdAt": "03/01/2024",
+        "updatedAt": "14/02/2024",
+        "unitCostPrice": 1000,
+        "unitSellingPrice": 1500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Bully Max 2 In 1",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Bully Max 2 In 1",
+        "quantity": 1,
+        "createdAt": "24/06/2023",
+        "updatedAt": "02/01/2024",
+        "unitCostPrice": 22000,
+        "unitSellingPrice": 30000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Vamisole Suspension 1liter",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Vamisole Suspension 1liter",
+        "quantity": 1,
+        "createdAt": "25/06/2023",
+        "updatedAt": "10/01/2024",
+        "unitCostPrice": 1200,
+        "unitSellingPrice": 2000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Iron Rake Medium ",
+    "quantity": 6,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Iron Rake Medium ",
+        "quantity": 1,
+        "createdAt": "01/06/2023",
+        "updatedAt": "18/01/2024",
+        "unitCostPrice": 3000,
+        "unitSellingPrice": 4000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Iron Rake Medium ",
+        "quantity": 5,
+        "createdAt": "04/02/2024",
+        "updatedAt": "04/02/2024",
+        "unitCostPrice": 3000,
+        "unitSellingPrice": 4000,
+        "expiryDate": "04/02/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Reproduction Treatment",
+    "quantity": 4,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Reproduction Treatment",
+        "quantity": 4,
+        "createdAt": "02/06/2023",
+        "updatedAt": "03/02/2024",
+        "unitCostPrice": 4000,
+        "unitSellingPrice": 5000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Wound Antibiotics Nd Mult Full",
+    "quantity": 3,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Wound Antibiotics Nd Mult Full",
+        "quantity": 3,
+        "createdAt": "02/06/2023",
+        "updatedAt": "06/02/2024",
+        "unitCostPrice": 4000,
+        "unitSellingPrice": 5000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Bravecto 10-20kg ",
+    "quantity": 2,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Bravecto 10-20kg ",
+        "quantity": 2,
+        "createdAt": "02/06/2023",
+        "updatedAt": "02/01/2024",
+        "unitCostPrice": 23000,
+        "unitSellingPrice": 30000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "charmil gel",
+    "quantity": 23,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "charmil gel",
+        "quantity": 9,
+        "createdAt": "06/10/2023",
+        "updatedAt": "05/12/2023",
+        "unitCostPrice": 1200,
+        "unitSellingPrice": 2000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "charmil gel",
+        "quantity": 14,
+        "createdAt": "05/08/2023",
+        "updatedAt": "05/02/2024",
+        "unitCostPrice": 1200,
+        "unitSellingPrice": 2500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Syringe 50ml ",
+    "quantity": 53,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Syringe 50ml ",
+        "quantity": 11,
+        "createdAt": "31/01/2024",
+        "updatedAt": "31/01/2024",
+        "unitCostPrice": 300,
+        "unitSellingPrice": 500,
+        "expiryDate": "31/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Syringe 50ml ",
+        "quantity": 9,
+        "createdAt": "31/01/2024",
+        "updatedAt": "08/02/2024",
+        "unitCostPrice": 300,
+        "unitSellingPrice": 500,
+        "expiryDate": "31/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "3 Way Ointment",
+    "quantity": 2,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "3 Way Ointment",
+        "quantity": 2,
+        "createdAt": "01/06/2023",
+        "updatedAt": "10/01/2024",
+        "unitCostPrice": 400,
+        "unitSellingPrice": 800,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Choke Chai  4.5mm",
+    "quantity": 26,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Choke Chai  4.5mm",
+        "quantity": 2,
+        "createdAt": "01/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 3500,
+        "unitSellingPrice": 4000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Choke Chai  4.5mm",
+        "quantity": 3,
+        "createdAt": "01/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 3500,
+        "unitSellingPrice": 4000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Iver Drench",
+    "quantity": 3,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Iver Drench",
+        "quantity": 3,
+        "createdAt": "01/06/2023",
+        "updatedAt": "10/01/2024",
+        "unitCostPrice": 450,
+        "unitSellingPrice": 1000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Peace Whitening Shampoo 500ml",
+    "quantity": 6,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Peace Whitening Shampoo 500ml",
+        "quantity": 6,
+        "createdAt": "29/05/2023",
+        "updatedAt": "02/01/2024",
+        "unitCostPrice": 12500,
+        "unitSellingPrice": 3800,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Envilite 100g",
+    "quantity": 3,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Envilite 100g",
+        "quantity": 3,
+        "createdAt": "06/10/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 600,
+        "unitSellingPrice": 1000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Double Sided Plastic Brush Small",
+    "quantity": 1084,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Double Sided Plastic Brush Small",
+        "quantity": 4,
+        "createdAt": "27/10/2023",
+        "updatedAt": "13/02/2024",
+        "unitCostPrice": 2500,
+        "unitSellingPrice": 3500,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Double Sided Plastic Brush Small",
+        "quantity": 50,
+        "createdAt": "04/02/2024",
+        "updatedAt": "04/02/2024",
+        "unitCostPrice": 2500,
+        "unitSellingPrice": 3800,
+        "expiryDate": "04/02/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Double Sided Plastic Brush Small",
+        "quantity": 5,
+        "createdAt": "31/01/2024",
+        "updatedAt": "31/01/2024",
+        "unitCostPrice": 2500,
+        "unitSellingPrice": 3800,
+        "expiryDate": "31/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "30cm Colored Plate",
+    "quantity": 5,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "30cm Colored Plate",
+        "quantity": 5,
+        "createdAt": "24/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 4000,
+        "unitSellingPrice": 5000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Drug C",
+    "quantity": 30,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Drug C",
+        "quantity": 30,
+        "createdAt": "26/02/2024",
+        "updatedAt": "26/02/2024",
+        "unitCostPrice": 30,
+        "unitSellingPrice": 36,
+        "expiryDate": "26/02/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Medium Paded Collar",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Medium Paded Collar",
+        "quantity": 1,
+        "createdAt": "10/01/2024",
+        "updatedAt": "10/01/2024",
+        "unitCostPrice": 2500,
+        "unitSellingPrice": 3000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Carrier With Belt",
+    "quantity": 2,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Carrier With Belt",
+        "quantity": 1,
+        "createdAt": "07/10/2023",
+        "updatedAt": "07/10/2023",
+        "unitCostPrice": 20000,
+        "unitSellingPrice": 30000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Carrier With Belt",
+        "quantity": 1,
+        "createdAt": "01/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 20000,
+        "unitSellingPrice": 30000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Medium Leash With Colar",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Medium Leash With Colar",
+        "quantity": 1,
+        "createdAt": "25/06/2023",
+        "updatedAt": "01/02/2024",
+        "unitCostPrice": 2800,
+        "unitSellingPrice": 3800,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Shanuzole 100ml",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Shanuzole 100ml",
+        "quantity": 1,
+        "createdAt": "06/10/2023",
+        "updatedAt": "26/10/2023",
+        "unitCostPrice": 500,
+        "unitSellingPrice": 800,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Reo Tylo",
+    "quantity": 15,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Reo Tylo",
+        "quantity": 10,
+        "createdAt": "06/10/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 800,
+        "unitSellingPrice": 1400,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Reo Tylo",
+        "quantity": 5,
+        "createdAt": "01/06/2023",
+        "updatedAt": "03/01/2024",
+        "unitCostPrice": 800,
+        "unitSellingPrice": 1000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "adult mouthguard",
+    "quantity": 30,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "adult mouthguard",
+        "quantity": 3,
+        "createdAt": "07/10/2023",
+        "updatedAt": "07/10/2023",
+        "unitCostPrice": 1500,
+        "unitSellingPrice": 2000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "adult mouthguard",
+        "quantity": 27,
+        "createdAt": "09/10/2023",
+        "updatedAt": "03/02/2024",
+        "unitCostPrice": 1500,
+        "unitSellingPrice": 2000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Green Book",
+    "quantity": 57,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Green Book",
+        "quantity": 6,
+        "createdAt": "07/10/2023",
+        "updatedAt": "05/12/2023",
+        "unitCostPrice": 150,
+        "unitSellingPrice": 500,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Green Book",
+        "quantity": 51,
+        "createdAt": "24/06/2023",
+        "updatedAt": "13/02/2024",
+        "unitCostPrice": 150,
+        "unitSellingPrice": 400,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "mamatrax",
+    "quantity": 2,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "mamatrax",
+        "quantity": 2,
+        "createdAt": "06/10/2023",
+        "updatedAt": "16/11/2023",
+        "unitCostPrice": 800,
+        "unitSellingPrice": 2000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "esty fish 2kg",
+    "quantity": 6,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "esty fish 2kg",
+        "quantity": 1,
+        "createdAt": "06/10/2023",
+        "updatedAt": "22/10/2023",
+        "unitCostPrice": 2000,
+        "unitSellingPrice": 3300,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "esty fish 2kg",
+        "quantity": 5,
+        "createdAt": "02/11/2023",
+        "updatedAt": "02/11/2023",
+        "unitCostPrice": 2000,
+        "unitSellingPrice": 3300,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Large Padded Harness Leash",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Large Padded Harness Leash",
+        "quantity": 1,
+        "createdAt": "02/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 7000,
+        "unitSellingPrice": 6000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Raes Whitening Shampoo ",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Raes Whitening Shampoo ",
+        "quantity": 1,
+        "createdAt": "01/06/2023",
+        "updatedAt": "04/02/2024",
+        "unitCostPrice": 2200,
+        "unitSellingPrice": 4000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "38cm stainless plate",
+    "quantity": 4,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "38cm stainless plate",
+        "quantity": 4,
+        "createdAt": "24/06/2023",
+        "updatedAt": "09/02/2024",
+        "unitCostPrice": 3600,
+        "unitSellingPrice": 5800,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Zito Whitening Shampoo 500ml",
+    "quantity": 29,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Zito Whitening Shampoo 500ml",
+        "quantity": 21,
+        "createdAt": "27/10/2023",
+        "updatedAt": "09/02/2024",
+        "unitCostPrice": 2000,
+        "unitSellingPrice": 3800,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Zito Whitening Shampoo 500ml",
+        "quantity": 8,
+        "createdAt": "08/01/2024",
+        "updatedAt": "08/01/2024",
+        "unitCostPrice": 2000,
+        "unitSellingPrice": 3900,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Weaving Leash Adult",
+    "quantity": 2,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Weaving Leash Adult",
+        "quantity": 2,
+        "createdAt": "01/06/2023",
+        "updatedAt": "21/11/2023",
+        "unitCostPrice": 6000,
+        "unitSellingPrice": 8000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "zito cod liver oil",
+    "quantity": 13,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "zito cod liver oil",
+        "quantity": 2,
+        "createdAt": "06/10/2023",
+        "updatedAt": "05/12/2023",
+        "unitCostPrice": 2700,
+        "unitSellingPrice": 4000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "zito cod liver oil",
+        "quantity": 11,
+        "createdAt": "06/09/2023",
+        "updatedAt": "13/02/2024",
+        "unitCostPrice": 2700,
+        "unitSellingPrice": 4000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Silicon Palm Brush",
+    "quantity": 5,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Silicon Palm Brush",
+        "quantity": 5,
+        "createdAt": "01/02/2024",
+        "updatedAt": "01/02/2024",
+        "unitCostPrice": 1300,
+        "unitSellingPrice": 2800,
+        "expiryDate": "01/02/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Net Harness",
+    "quantity": 2,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Net Harness",
+        "quantity": 2,
+        "createdAt": "07/10/2023",
+        "updatedAt": "07/10/2023",
+        "unitCostPrice": 3500,
+        "unitSellingPrice": 4500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Agriproject Medium Colar ",
+    "quantity": 2,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Agriproject Medium Colar ",
+        "quantity": 2,
+        "createdAt": "25/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 1000,
+        "unitSellingPrice": 1200,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Treat Half Deworm",
+    "quantity": 4,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Treat Half Deworm",
+        "quantity": 4,
+        "createdAt": "11/08/2023",
+        "updatedAt": "13/02/2024",
+        "unitCostPrice": 900,
+        "unitSellingPrice": 2500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "xtopher chemical",
+    "quantity": 10,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "xtopher chemical",
+        "quantity": 10,
+        "createdAt": "27/10/2023",
+        "updatedAt": "27/10/2023",
+        "unitCostPrice": 850,
+        "unitSellingPrice": 2200,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Antidiarhea Concoction",
+    "quantity": 4,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Antidiarhea Concoction",
+        "quantity": 4,
+        "createdAt": "28/10/2023",
+        "updatedAt": "28/10/2023",
+        "unitCostPrice": 800,
+        "unitSellingPrice": 1500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "2mm Chain Leash",
+    "quantity": 2,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "2mm Chain Leash",
+        "quantity": 2,
+        "createdAt": "25/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 1000,
+        "unitSellingPrice": 2000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Dhlpp Puppy",
+    "quantity": 32,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Dhlpp Puppy",
+        "quantity": 10,
+        "createdAt": "23/12/2023",
+        "updatedAt": "23/12/2023",
+        "unitCostPrice": 4000,
+        "unitSellingPrice": 7500,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Dhlpp Puppy",
+        "quantity": 22,
+        "createdAt": "23/12/2023",
+        "updatedAt": "02/02/2024",
+        "unitCostPrice": 4000,
+        "unitSellingPrice": 7000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "zito grooming oil 250ml",
+    "quantity": 8,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "zito grooming oil 250ml",
+        "quantity": 2,
+        "createdAt": "18/12/2023",
+        "updatedAt": "18/12/2023",
+        "unitCostPrice": 1500,
+        "unitSellingPrice": 3000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "zito grooming oil 250ml",
+        "quantity": 6,
+        "createdAt": "02/01/2024",
+        "updatedAt": "02/02/2024",
+        "unitCostPrice": 1500,
+        "unitSellingPrice": 2800,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Agriproject Adult Colar",
+    "quantity": 7,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Agriproject Adult Colar",
+        "quantity": 6,
+        "createdAt": "08/01/2024",
+        "updatedAt": "31/01/2024",
+        "unitCostPrice": 1200,
+        "unitSellingPrice": 2300,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Agriproject Adult Colar",
+        "quantity": 1,
+        "createdAt": "01/06/2023",
+        "updatedAt": "31/01/2024",
+        "unitCostPrice": 1200,
+        "unitSellingPrice": 2500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Mamatrax",
+    "quantity": 2,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Mamatrax",
+        "quantity": 2,
+        "createdAt": "31/05/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 800,
+        "unitSellingPrice": 2000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Samoxine Powder 50g",
+    "quantity": 10,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Samoxine Powder 50g",
+        "quantity": 9,
+        "createdAt": "06/10/2023",
+        "updatedAt": "18/11/2023",
+        "unitCostPrice": 500,
+        "unitSellingPrice": 700,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Samoxine Powder 50g",
+        "quantity": 1,
+        "createdAt": "25/06/2023",
+        "updatedAt": "03/01/2024",
+        "unitCostPrice": 500,
+        "unitSellingPrice": 700,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Toothpaste Nd Brush",
+    "quantity": 104,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Toothpaste Nd Brush",
+        "quantity": 1,
+        "createdAt": "31/01/2024",
+        "updatedAt": "31/01/2024",
+        "unitCostPrice": 1800,
+        "unitSellingPrice": 3500,
+        "expiryDate": "31/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Toothpaste Nd Brush",
+        "quantity": 10,
+        "createdAt": "04/02/2024",
+        "updatedAt": "04/02/2024",
+        "unitCostPrice": 1800,
+        "unitSellingPrice": 3500,
+        "expiryDate": "04/02/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Thug Ball",
+    "quantity": 11,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Thug Ball",
+        "quantity": 2,
+        "createdAt": "01/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 1500,
+        "unitSellingPrice": 3500,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Thug Ball",
+        "quantity": 1,
+        "createdAt": "01/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 1500,
+        "unitSellingPrice": 3500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Flurax 100ml",
+    "quantity": 3,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Flurax 100ml",
+        "quantity": 3,
+        "createdAt": "06/10/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 800,
+        "unitSellingPrice": 1000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Np Puppy Can 400g",
+    "quantity": 52,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Np Puppy Can 400g",
+        "quantity": 52,
+        "createdAt": "11/07/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 2000,
+        "unitSellingPrice": 2700,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Parvo Drip",
+    "quantity": 5,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Parvo Drip",
+        "quantity": 5,
+        "createdAt": "02/06/2023",
+        "updatedAt": "10/01/2024",
+        "unitCostPrice": 5000,
+        "unitSellingPrice": 10000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Gxin Viral Clear 100ml",
+    "quantity": 4,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Gxin Viral Clear 100ml",
+        "quantity": 4,
+        "createdAt": "01/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 200,
+        "unitSellingPrice": 400,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "puppy chain leash with collar",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "puppy chain leash with collar",
+        "quantity": 1,
+        "createdAt": "01/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 3500,
+        "unitSellingPrice": 3500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "St Mama Cypermethrine 1ltr",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "St Mama Cypermethrine 1ltr",
+        "quantity": 1,
+        "createdAt": "07/10/2023",
+        "updatedAt": "07/10/2023",
+        "unitCostPrice": 2000,
+        "unitSellingPrice": 2500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Zito Milk Tin 250g",
+    "quantity": 9,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Zito Milk Tin 250g",
+        "quantity": 9,
+        "createdAt": "04/02/2024",
+        "updatedAt": "10/02/2024",
+        "unitCostPrice": 2200,
+        "unitSellingPrice": 4800,
+        "expiryDate": "04/02/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Medium Plastic Double Plate",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Medium Plastic Double Plate",
+        "quantity": 1,
+        "createdAt": "27/10/2023",
+        "updatedAt": "30/11/2023",
+        "unitCostPrice": 2500,
+        "unitSellingPrice": 3500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "5mm Kennel Chain",
+    "quantity": 9,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "5mm Kennel Chain",
+        "quantity": 5,
+        "createdAt": "06/08/2023",
+        "updatedAt": "04/01/2024",
+        "unitCostPrice": 4700,
+        "unitSellingPrice": 6500,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "5mm Kennel Chain",
+        "quantity": 4,
+        "createdAt": "02/11/2023",
+        "updatedAt": "02/11/2023",
+        "unitCostPrice": 4700,
+        "unitSellingPrice": 7000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Oxylet Spray",
+    "quantity": 8,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Oxylet Spray",
+        "quantity": 8,
+        "createdAt": "25/06/2023",
+        "updatedAt": "14/02/2024",
+        "unitCostPrice": 2000,
+        "unitSellingPrice": 3000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Drug A",
+    "quantity": 10,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Drug A",
+        "quantity": 10,
+        "createdAt": "26/02/2024",
+        "updatedAt": "26/02/2024",
+        "unitCostPrice": 10,
+        "unitSellingPrice": 12,
+        "expiryDate": "26/02/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Rc Fit 2kg",
+    "quantity": 35,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Rc Fit 2kg",
+        "quantity": 35,
+        "createdAt": "01/02/2024",
+        "updatedAt": "10/02/2024",
+        "unitCostPrice": 19000,
+        "unitSellingPrice": 36000,
+        "expiryDate": "01/02/2025"
+      }
+    ]
+  },
+  {
+    "_id": "zerocrime  1pc",
+    "quantity": 205,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "zerocrime  1pc",
+        "quantity": 205,
+        "createdAt": "02/01/2024",
+        "updatedAt": "09/02/2024",
+        "unitCostPrice": 350,
+        "unitSellingPrice": 600,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Puppy Colar Foreign",
+    "quantity": 179,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Puppy Colar Foreign",
+        "quantity": 28,
+        "createdAt": "31/01/2024",
+        "updatedAt": "12/02/2024",
+        "unitCostPrice": 500,
+        "unitSellingPrice": 1500,
+        "expiryDate": "31/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Puppy Colar Foreign",
+        "quantity": 30,
+        "createdAt": "31/01/2024",
+        "updatedAt": "31/01/2024",
+        "unitCostPrice": 500,
+        "unitSellingPrice": 1500,
+        "expiryDate": "31/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Puppy Colar Foreign",
+        "quantity": 121,
+        "createdAt": "23/12/2023",
+        "updatedAt": "14/02/2024",
+        "unitCostPrice": 500,
+        "unitSellingPrice": 1500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Mattress Size 3",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Mattress Size 3",
+        "quantity": 1,
+        "createdAt": "07/10/2023",
+        "updatedAt": "01/02/2024",
+        "unitCostPrice": 25000,
+        "unitSellingPrice": 30000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "optimax puppy CAN",
+    "quantity": 133,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "optimax puppy CAN",
+        "quantity": 103,
+        "createdAt": "27/10/2023",
+        "updatedAt": "10/02/2024",
+        "unitCostPrice": 1400,
+        "unitSellingPrice": 1750,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "optimax puppy CAN",
+        "quantity": 30,
+        "createdAt": "20/01/2024",
+        "updatedAt": "14/02/2024",
+        "unitCostPrice": 950,
+        "unitSellingPrice": 1700,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Adult Twisted Leash With Spring",
+    "quantity": 4,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Adult Twisted Leash With Spring",
+        "quantity": 4,
+        "createdAt": "27/10/2023",
+        "updatedAt": "27/11/2023",
+        "unitCostPrice": 4500,
+        "unitSellingPrice": 7000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Megayield Tonic 250ml",
+    "quantity": 4,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Megayield Tonic 250ml",
+        "quantity": 4,
+        "createdAt": "06/10/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 600,
+        "unitSellingPrice": 800,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Oxysaint Bolus",
+    "quantity": 35,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Oxysaint Bolus",
+        "quantity": 35,
+        "createdAt": "06/10/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 50,
+        "unitSellingPrice": 100,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Chicken Bone",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Chicken Bone",
+        "quantity": 1,
+        "createdAt": "17/07/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 330,
+        "unitSellingPrice": 600,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Kc Bloat 100ml ",
+    "quantity": 3,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Kc Bloat 100ml ",
+        "quantity": 1,
+        "createdAt": "02/01/2024",
+        "updatedAt": "03/01/2024",
+        "unitCostPrice": 600,
+        "unitSellingPrice": 1000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Kc Bloat 100ml ",
+        "quantity": 2,
+        "createdAt": "06/10/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 600,
+        "unitSellingPrice": 1000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "G-Xin Viral 100ml",
+    "quantity": 4,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "G-Xin Viral 100ml",
+        "quantity": 4,
+        "createdAt": "06/10/2023",
+        "updatedAt": "28/10/2023",
+        "unitCostPrice": 250,
+        "unitSellingPrice": 500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Rc Mini Starter 1kg",
+    "quantity": 13,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Rc Mini Starter 1kg",
+        "quantity": 13,
+        "createdAt": "06/09/2023",
+        "updatedAt": "10/02/2024",
+        "unitCostPrice": 14000,
+        "unitSellingPrice": 22000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "esty fish 500g",
+    "quantity": 11,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "esty fish 500g",
+        "quantity": 2,
+        "createdAt": "06/10/2023",
+        "updatedAt": "12/02/2024",
+        "unitCostPrice": 600,
+        "unitSellingPrice": 1300,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "esty fish 500g",
+        "quantity": 9,
+        "createdAt": "01/02/2024",
+        "updatedAt": "14/02/2024",
+        "unitCostPrice": 600,
+        "unitSellingPrice": 1300,
+        "expiryDate": "01/02/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Albion Pet Mult 50tab",
+    "quantity": 10,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Albion Pet Mult 50tab",
+        "quantity": 10,
+        "createdAt": "12/01/2024",
+        "updatedAt": "01/02/2024",
+        "unitCostPrice": 1900,
+        "unitSellingPrice": 7000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Dog Cuban",
+    "quantity": 3,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Dog Cuban",
+        "quantity": 3,
+        "createdAt": "25/06/2023",
+        "updatedAt": "29/01/2024",
+        "unitCostPrice": 3000,
+        "unitSellingPrice": 3500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Treat Drip Half",
+    "quantity": 47,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Treat Drip Half",
+        "quantity": 47,
+        "createdAt": "02/06/2023",
+        "updatedAt": "08/02/2024",
+        "unitCostPrice": 5000,
+        "unitSellingPrice": 7000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "NCN 50g",
+    "quantity": 5,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "NCN 50g",
+        "quantity": 5,
+        "createdAt": "25/06/2023",
+        "updatedAt": "10/01/2024",
+        "unitCostPrice": 400,
+        "unitSellingPrice": 600,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Antitrax Perfume",
+    "quantity": 4,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Antitrax Perfume",
+        "quantity": 3,
+        "createdAt": "25/06/2023",
+        "updatedAt": "02/01/2024",
+        "unitCostPrice": 1000,
+        "unitSellingPrice": 2000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Antitrax Perfume",
+        "quantity": 1,
+        "createdAt": "06/10/2023",
+        "updatedAt": "07/02/2024",
+        "unitCostPrice": 1000,
+        "unitSellingPrice": 2500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Hamid Perfume",
+    "quantity": 12,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Hamid Perfume",
+        "quantity": 2,
+        "createdAt": "08/01/2024",
+        "updatedAt": "10/02/2024",
+        "unitCostPrice": 1200,
+        "unitSellingPrice": 3000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Hamid Perfume",
+        "quantity": 10,
+        "createdAt": "01/02/2024",
+        "updatedAt": "10/02/2024",
+        "unitCostPrice": 1200,
+        "unitSellingPrice": 3000,
+        "expiryDate": "01/02/2025"
+      }
+    ]
+  },
+  {
+    "_id": "petcool junior 20kg",
+    "quantity": 9,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "petcool junior 20kg",
+        "quantity": 9,
+        "createdAt": "07/09/2023",
+        "updatedAt": "08/02/2024",
+        "unitCostPrice": 35000,
+        "unitSellingPrice": 54500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "booster puppy 10kg",
+    "quantity": 16,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "booster puppy 10kg",
+        "quantity": 2,
+        "createdAt": "07/10/2023",
+        "updatedAt": "08/02/2024",
+        "unitCostPrice": 33000,
+        "unitSellingPrice": 43000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "booster puppy 10kg",
+        "quantity": 14,
+        "createdAt": "27/10/2023",
+        "updatedAt": "09/02/2024",
+        "unitCostPrice": 34000,
+        "unitSellingPrice": 42000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "aventis performance 15kg",
+    "quantity": 3,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "aventis performance 15kg",
+        "quantity": 3,
+        "createdAt": "07/09/2023",
+        "updatedAt": "01/12/2023",
+        "unitCostPrice": 33000,
+        "unitSellingPrice": 45000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Ordinary Indomie ",
+    "quantity": 1355,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Ordinary Indomie ",
+        "quantity": 50,
+        "createdAt": "31/01/2024",
+        "updatedAt": "31/01/2024",
+        "unitCostPrice": 850,
+        "unitSellingPrice": 1100,
+        "expiryDate": "31/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Ordinary Indomie ",
+        "quantity": 20,
+        "createdAt": "07/10/2023",
+        "updatedAt": "05/12/2023",
+        "unitCostPrice": 850,
+        "unitSellingPrice": 1100,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Ordinary Indomie ",
+        "quantity": 1185,
+        "createdAt": "06/08/2023",
+        "updatedAt": "10/02/2024",
+        "unitCostPrice": 850,
+        "unitSellingPrice": 1100,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Revigorate Pet2.5g",
+    "quantity": 43,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Revigorate Pet2.5g",
+        "quantity": 33,
+        "createdAt": "12/01/2024",
+        "updatedAt": "12/02/2024",
+        "unitCostPrice": 100,
+        "unitSellingPrice": 400,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Revigorate Pet2.5g",
+        "quantity": 10,
+        "createdAt": "12/01/2024",
+        "updatedAt": "12/01/2024",
+        "unitCostPrice": 100,
+        "unitSellingPrice": 350,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "rc giant starter 15kg",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "rc giant starter 15kg",
+        "quantity": 1,
+        "createdAt": "03/01/2024",
+        "updatedAt": "10/02/2024",
+        "unitCostPrice": 110000,
+        "unitSellingPrice": 168000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Reo Furamydine 100g",
+    "quantity": 9,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Reo Furamydine 100g",
+        "quantity": 7,
+        "createdAt": "06/10/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 600,
+        "unitSellingPrice": 1200,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Reo Furamydine 100g",
+        "quantity": 2,
+        "createdAt": "01/06/2023",
+        "updatedAt": "10/01/2024",
+        "unitCostPrice": 600,
+        "unitSellingPrice": 800,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "optimax puppy 10kg",
+    "quantity": 14,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "optimax puppy 10kg",
+        "quantity": 12,
+        "createdAt": "27/10/2023",
+        "updatedAt": "08/02/2024",
+        "unitCostPrice": 24000,
+        "unitSellingPrice": 32000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "optimax puppy 10kg",
+        "quantity": 2,
+        "createdAt": "31/01/2024",
+        "updatedAt": "08/02/2024",
+        "unitCostPrice": 24000,
+        "unitSellingPrice": 33000,
+        "expiryDate": "31/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Antirabies ",
+    "quantity": 19,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Antirabies ",
+        "quantity": 9,
+        "createdAt": "23/12/2023",
+        "updatedAt": "05/01/2024",
+        "unitCostPrice": 1700,
+        "unitSellingPrice": 6500,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Antirabies ",
+        "quantity": 10,
+        "createdAt": "23/12/2023",
+        "updatedAt": "23/12/2023",
+        "unitCostPrice": 1700,
+        "unitSellingPrice": 6000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Petcool Essential 20kg",
+    "quantity": 2,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Petcool Essential 20kg",
+        "quantity": 2,
+        "createdAt": "07/09/2023",
+        "updatedAt": "22/01/2024",
+        "unitCostPrice": 32000,
+        "unitSellingPrice": 45000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Tick Bath",
+    "quantity": 10,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Tick Bath",
+        "quantity": 10,
+        "createdAt": "25/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 2000,
+        "unitSellingPrice": 3500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Medium Chest Harness",
+    "quantity": 5,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Medium Chest Harness",
+        "quantity": 5,
+        "createdAt": "02/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 3500,
+        "unitSellingPrice": 5000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Syringe 20mls",
+    "quantity": 134,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Syringe 20mls",
+        "quantity": 32,
+        "createdAt": "31/01/2024",
+        "updatedAt": "06/02/2024",
+        "unitCostPrice": 200,
+        "unitSellingPrice": 300,
+        "expiryDate": "31/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Syringe 20mls",
+        "quantity": 34,
+        "createdAt": "31/01/2024",
+        "updatedAt": "31/01/2024",
+        "unitCostPrice": 200,
+        "unitSellingPrice": 300,
+        "expiryDate": "31/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Fowlpox Care 50g",
+    "quantity": 3,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Fowlpox Care 50g",
+        "quantity": 3,
+        "createdAt": "25/06/2023",
+        "updatedAt": "10/01/2024",
+        "unitCostPrice": 300,
+        "unitSellingPrice": 500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Albenor 2500mg ",
+    "quantity": 19,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Albenor 2500mg ",
+        "quantity": 9,
+        "createdAt": "25/06/2023",
+        "updatedAt": "16/02/2024",
+        "unitCostPrice": 150,
+        "unitSellingPrice": 250,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Albenor 2500mg ",
+        "quantity": 10,
+        "createdAt": "07/10/2023",
+        "updatedAt": "07/10/2023",
+        "unitCostPrice": 150,
+        "unitSellingPrice": 250,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Paded Puppy Colar Chain Leash ",
+    "quantity": 2,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Paded Puppy Colar Chain Leash ",
+        "quantity": 2,
+        "createdAt": "02/11/2023",
+        "updatedAt": "05/02/2024",
+        "unitCostPrice": 3000,
+        "unitSellingPrice": 4000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Nature Protection Adult Can",
+    "quantity": 33,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Nature Protection Adult Can",
+        "quantity": 33,
+        "createdAt": "27/01/2024",
+        "updatedAt": "10/02/2024",
+        "unitCostPrice": 1600,
+        "unitSellingPrice": 2200,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Teething Toy Small",
+    "quantity": 5,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Teething Toy Small",
+        "quantity": 5,
+        "createdAt": "25/06/2023",
+        "updatedAt": "04/01/2024",
+        "unitCostPrice": 2500,
+        "unitSellingPrice": 3000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Albion Amitrax",
+    "quantity": 11,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Albion Amitrax",
+        "quantity": 11,
+        "createdAt": "12/01/2024",
+        "updatedAt": "09/02/2024",
+        "unitCostPrice": 2100,
+        "unitSellingPrice": 3300,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Petcool Proenergy 20kg",
+    "quantity": 4,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Petcool Proenergy 20kg",
+        "quantity": 4,
+        "createdAt": "03/01/2024",
+        "updatedAt": "22/01/2024",
+        "unitCostPrice": 36000,
+        "unitSellingPrice": 50000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "adult collar",
+    "quantity": 40,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "adult collar",
+        "quantity": 24,
+        "createdAt": "08/10/2023",
+        "updatedAt": "14/02/2024",
+        "unitCostPrice": 1000,
+        "unitSellingPrice": 1800,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "adult collar",
+        "quantity": 16,
+        "createdAt": "18/12/2023",
+        "updatedAt": "31/01/2024",
+        "unitCostPrice": 1000,
+        "unitSellingPrice": 2000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "rc maxi puppy 4kg",
+    "quantity": 11,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "rc maxi puppy 4kg",
+        "quantity": 1,
+        "createdAt": "02/11/2023",
+        "updatedAt": "10/02/2024",
+        "unitCostPrice": 32000,
+        "unitSellingPrice": 52500,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "rc maxi puppy 4kg",
+        "quantity": 10,
+        "createdAt": "29/08/2023",
+        "updatedAt": "02/01/2024",
+        "unitCostPrice": 32000,
+        "unitSellingPrice": 40000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Drip Half",
+    "quantity": 5,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Drip Half",
+        "quantity": 5,
+        "createdAt": "28/10/2023",
+        "updatedAt": "28/10/2023",
+        "unitCostPrice": 5000,
+        "unitSellingPrice": 7000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "balance can",
+    "quantity": 325,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "balance can",
+        "quantity": 297,
+        "createdAt": "06/09/2023",
+        "updatedAt": "12/02/2024",
+        "unitCostPrice": 1200,
+        "unitSellingPrice": 1500,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "balance can",
+        "quantity": 28,
+        "createdAt": "08/01/2024",
+        "updatedAt": "14/02/2024",
+        "unitCostPrice": 1300,
+        "unitSellingPrice": 1550,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Concoction Stooling",
+    "quantity": 4,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Concoction Stooling",
+        "quantity": 4,
+        "createdAt": "02/06/2023",
+        "updatedAt": "01/02/2024",
+        "unitCostPrice": 400,
+        "unitSellingPrice": 1000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Zito Whitening Shampoo 250ml",
+    "quantity": 14,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Zito Whitening Shampoo 250ml",
+        "quantity": 5,
+        "createdAt": "08/01/2024",
+        "updatedAt": "07/02/2024",
+        "unitCostPrice": 600,
+        "unitSellingPrice": 3000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Zito Whitening Shampoo 250ml",
+        "quantity": 9,
+        "createdAt": "06/11/2023",
+        "updatedAt": "12/02/2024",
+        "unitCostPrice": 600,
+        "unitSellingPrice": 2500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "balance 5kg",
+    "quantity": 4,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "balance 5kg",
+        "quantity": 1,
+        "createdAt": "24/06/2023",
+        "updatedAt": "12/02/2024",
+        "unitCostPrice": 13000,
+        "unitSellingPrice": 17000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "balance 5kg",
+        "quantity": 3,
+        "createdAt": "06/10/2023",
+        "updatedAt": "08/02/2024",
+        "unitCostPrice": 14000,
+        "unitSellingPrice": 17000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Broiler Extra Booster Tonic 1liter",
+    "quantity": 3,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Broiler Extra Booster Tonic 1liter",
+        "quantity": 1,
+        "createdAt": "06/10/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 1200,
+        "unitSellingPrice": 1500,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Broiler Extra Booster Tonic 1liter",
+        "quantity": 1,
+        "createdAt": "25/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 1200,
+        "unitSellingPrice": 1500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Oxyfuravite 100g",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Oxyfuravite 100g",
+        "quantity": 1,
+        "createdAt": "01/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 800,
+        "unitSellingPrice": 1000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Treat Ticks Injection",
+    "quantity": 9,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Treat Ticks Injection",
+        "quantity": 9,
+        "createdAt": "02/06/2023",
+        "updatedAt": "13/02/2024",
+        "unitCostPrice": 1500,
+        "unitSellingPrice": 2500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Grooming Small Breed Plenty ",
+    "quantity": 10,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Grooming Small Breed Plenty ",
+        "quantity": 5,
+        "createdAt": "25/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 5000,
+        "unitSellingPrice": 7000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Red Tablet",
+    "quantity": 11979,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Red Tablet",
+        "quantity": 1000,
+        "createdAt": "01/02/2024",
+        "updatedAt": "01/02/2024",
+        "unitCostPrice": 50,
+        "unitSellingPrice": 100,
+        "expiryDate": "01/02/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Red Tablet",
+        "quantity": 979,
+        "createdAt": "01/02/2024",
+        "updatedAt": "01/02/2024",
+        "unitCostPrice": 50,
+        "unitSellingPrice": 100,
+        "expiryDate": "01/02/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Flashtoy Big",
+    "quantity": 343,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Flashtoy Big",
+        "quantity": 15,
+        "createdAt": "04/02/2024",
+        "updatedAt": "04/02/2024",
+        "unitCostPrice": 2000,
+        "unitSellingPrice": 3500,
+        "expiryDate": "04/02/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Flashtoy Big",
+        "quantity": 13,
+        "createdAt": "04/02/2024",
+        "updatedAt": "12/02/2024",
+        "unitCostPrice": 2000,
+        "unitSellingPrice": 3500,
+        "expiryDate": "04/02/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Peace Pon Tick Spray Big",
+    "quantity": 60,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Peace Pon Tick Spray Big",
+        "quantity": 30,
+        "createdAt": "31/01/2024",
+        "updatedAt": "31/01/2024",
+        "unitCostPrice": 1800,
+        "unitSellingPrice": 2800,
+        "expiryDate": "31/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Peace Pon Tick Spray Big",
+        "quantity": 25,
+        "createdAt": "31/01/2024",
+        "updatedAt": "14/02/2024",
+        "unitCostPrice": 1800,
+        "unitSellingPrice": 2800,
+        "expiryDate": "31/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Peace Pon Tick Spray Big",
+        "quantity": 5,
+        "createdAt": "05/02/2024",
+        "updatedAt": "07/02/2024",
+        "unitCostPrice": 1800,
+        "unitSellingPrice": 2800,
+        "expiryDate": "05/02/2025"
+      }
+    ]
+  },
+  {
+    "_id": "prime shampoo big",
+    "quantity": 2,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "prime shampoo big",
+        "quantity": 2,
+        "createdAt": "06/10/2023",
+        "updatedAt": "13/12/2023",
+        "unitCostPrice": 1300,
+        "unitSellingPrice": 2500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Optimax Cat Can",
+    "quantity": 70,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Optimax Cat Can",
+        "quantity": 52,
+        "createdAt": "06/09/2023",
+        "updatedAt": "12/02/2024",
+        "unitCostPrice": 1200,
+        "unitSellingPrice": 1700,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Optimax Cat Can",
+        "quantity": 18,
+        "createdAt": "04/12/2023",
+        "updatedAt": "14/02/2024",
+        "unitCostPrice": 1200,
+        "unitSellingPrice": 1700,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "lily whitening shampoo",
+    "quantity": 14,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "lily whitening shampoo",
+        "quantity": 11,
+        "createdAt": "29/05/2023",
+        "updatedAt": "31/01/2024",
+        "unitCostPrice": 1900,
+        "unitSellingPrice": 4500,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "lily whitening shampoo",
+        "quantity": 3,
+        "createdAt": "06/10/2023",
+        "updatedAt": "31/01/2024",
+        "unitCostPrice": 1900,
+        "unitSellingPrice": 4500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Zito Whitening Shampoo 1liter",
+    "quantity": 36,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Zito Whitening Shampoo 1liter",
+        "quantity": 3,
+        "createdAt": "05/02/2024",
+        "updatedAt": "07/02/2024",
+        "unitCostPrice": 3500,
+        "unitSellingPrice": 6000,
+        "expiryDate": "05/02/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Zito Whitening Shampoo 1liter",
+        "quantity": 33,
+        "createdAt": "04/02/2024",
+        "updatedAt": "05/02/2024",
+        "unitCostPrice": 3500,
+        "unitSellingPrice": 6000,
+        "expiryDate": "04/02/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Antistress Injection",
+    "quantity": 10,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Antistress Injection",
+        "quantity": 10,
+        "createdAt": "27/01/2024",
+        "updatedAt": "27/01/2024",
+        "unitCostPrice": 1000,
+        "unitSellingPrice": 1500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Dhlpp Biocan",
+    "quantity": 41,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Dhlpp Biocan",
+        "quantity": 21,
+        "createdAt": "23/12/2023",
+        "updatedAt": "12/02/2024",
+        "unitCostPrice": 3000,
+        "unitSellingPrice": 6500,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Dhlpp Biocan",
+        "quantity": 20,
+        "createdAt": "23/12/2023",
+        "updatedAt": "23/12/2023",
+        "unitCostPrice": 3000,
+        "unitSellingPrice": 7000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Sambezole 1liter ",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Sambezole 1liter ",
+        "quantity": 1,
+        "createdAt": "06/10/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 1500,
+        "unitSellingPrice": 2000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Albenor  Bolus 2500mg ",
+    "quantity": 2,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Albenor  Bolus 2500mg ",
+        "quantity": 2,
+        "createdAt": "25/06/2023",
+        "updatedAt": "10/01/2024",
+        "unitCostPrice": 150,
+        "unitSellingPrice": 250,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "optimax can ",
+    "quantity": 165,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "optimax can ",
+        "quantity": 20,
+        "createdAt": "25/11/2023",
+        "updatedAt": "12/02/2024",
+        "unitCostPrice": 1200,
+        "unitSellingPrice": 1550,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "optimax can ",
+        "quantity": 145,
+        "createdAt": "27/10/2023",
+        "updatedAt": "12/02/2024",
+        "unitCostPrice": 1200,
+        "unitSellingPrice": 1550,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Viral Treat 100g",
+    "quantity": 4,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Viral Treat 100g",
+        "quantity": 3,
+        "createdAt": "06/10/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 500,
+        "unitSellingPrice": 1000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Viral Treat 100g",
+        "quantity": 1,
+        "createdAt": "25/06/2023",
+        "updatedAt": "09/02/2024",
+        "unitCostPrice": 500,
+        "unitSellingPrice": 800,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Petwyse COD Liver Oil",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Petwyse COD Liver Oil",
+        "quantity": 1,
+        "createdAt": "25/06/2023",
+        "updatedAt": "05/02/2024",
+        "unitCostPrice": 1500,
+        "unitSellingPrice": 2000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Uti Treatment",
+    "quantity": 5,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Uti Treatment",
+        "quantity": 5,
+        "createdAt": "02/06/2023",
+        "updatedAt": "10/01/2024",
+        "unitCostPrice": 4000,
+        "unitSellingPrice": 5000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Petcoolaid",
+    "quantity": 3,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Petcoolaid",
+        "quantity": 3,
+        "createdAt": "01/06/2023",
+        "updatedAt": "10/02/2024",
+        "unitCostPrice": 1000,
+        "unitSellingPrice": 3000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Full DriP",
+    "quantity": 3,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Full DriP",
+        "quantity": 3,
+        "createdAt": "26/06/2023",
+        "updatedAt": "13/11/2023",
+        "unitCostPrice": 6000,
+        "unitSellingPrice": 10000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Tylonor Bolus",
+    "quantity": 55,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Tylonor Bolus",
+        "quantity": 6,
+        "createdAt": "25/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 300,
+        "unitSellingPrice": 500,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Tylonor Bolus",
+        "quantity": 7,
+        "createdAt": "06/10/2023",
+        "updatedAt": "30/10/2023",
+        "unitCostPrice": 500,
+        "unitSellingPrice": 800,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Small Dose Drip ",
+    "quantity": 4,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Small Dose Drip ",
+        "quantity": 4,
+        "createdAt": "27/10/2023",
+        "updatedAt": "27/10/2023",
+        "unitCostPrice": 2500,
+        "unitSellingPrice": 3500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "dog soap",
+    "quantity": 31,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "dog soap",
+        "quantity": 31,
+        "createdAt": "23/12/2023",
+        "updatedAt": "12/02/2024",
+        "unitCostPrice": 550,
+        "unitSellingPrice": 1100,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Paded Small Colar Chain Leash ",
+    "quantity": 6,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Paded Small Colar Chain Leash ",
+        "quantity": 6,
+        "createdAt": "08/10/2023",
+        "updatedAt": "09/02/2024",
+        "unitCostPrice": 3000,
+        "unitSellingPrice": 4000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Anidone Multivit 100g",
+    "quantity": 3,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Anidone Multivit 100g",
+        "quantity": 3,
+        "createdAt": "06/10/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 500,
+        "unitSellingPrice": 700,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Small Mouth Guard",
+    "quantity": 7,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Small Mouth Guard",
+        "quantity": 7,
+        "createdAt": "25/06/2023",
+        "updatedAt": "14/02/2024",
+        "unitCostPrice": 400,
+        "unitSellingPrice": 1000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "rainbow harness adult",
+    "quantity": 13,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "rainbow harness adult",
+        "quantity": 9,
+        "createdAt": "01/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 5000,
+        "unitSellingPrice": 6000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "rainbow harness adult",
+        "quantity": 4,
+        "createdAt": "07/10/2023",
+        "updatedAt": "22/01/2024",
+        "unitCostPrice": 5000,
+        "unitSellingPrice": 6000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Medium Leash And Harness",
+    "quantity": 18,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Medium Leash And Harness",
+        "quantity": 17,
+        "createdAt": "02/06/2023",
+        "updatedAt": "24/01/2024",
+        "unitCostPrice": 3500,
+        "unitSellingPrice": 6000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Medium Leash And Harness",
+        "quantity": 1,
+        "createdAt": "07/10/2023",
+        "updatedAt": "07/10/2023",
+        "unitCostPrice": 3500,
+        "unitSellingPrice": 6000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Zito Perfume ",
+    "quantity": 4,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Zito Perfume ",
+        "quantity": 1,
+        "createdAt": "06/10/2023",
+        "updatedAt": "10/02/2024",
+        "unitCostPrice": 1070,
+        "unitSellingPrice": 2000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Zito Perfume ",
+        "quantity": 3,
+        "createdAt": "14/06/2023",
+        "updatedAt": "13/12/2023",
+        "unitCostPrice": 1070,
+        "unitSellingPrice": 2000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Amitrax Chemical",
+    "quantity": 11,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Amitrax Chemical",
+        "quantity": 10,
+        "createdAt": "06/09/2023",
+        "updatedAt": "02/01/2024",
+        "unitCostPrice": 3200,
+        "unitSellingPrice": 4800,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Amitrax Chemical",
+        "quantity": 1,
+        "createdAt": "07/10/2023",
+        "updatedAt": "27/01/2024",
+        "unitCostPrice": 3200,
+        "unitSellingPrice": 4800,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Small Collar",
+    "quantity": 6,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Small Collar",
+        "quantity": 2,
+        "createdAt": "25/06/2023",
+        "updatedAt": "10/02/2024",
+        "unitCostPrice": 250,
+        "unitSellingPrice": 800,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Small Collar",
+        "quantity": 4,
+        "createdAt": "14/12/2023",
+        "updatedAt": "05/02/2024",
+        "unitCostPrice": 250,
+        "unitSellingPrice": 600,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Anidone Viralforte 100g",
+    "quantity": 3,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Anidone Viralforte 100g",
+        "quantity": 3,
+        "createdAt": "25/06/2023",
+        "updatedAt": "03/01/2024",
+        "unitCostPrice": 600,
+        "unitSellingPrice": 800,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "One 100g",
+    "quantity": 4,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "One 100g",
+        "quantity": 2,
+        "createdAt": "06/10/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 1000,
+        "unitSellingPrice": 1500,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "One 100g",
+        "quantity": 2,
+        "createdAt": "01/06/2023",
+        "updatedAt": "10/01/2024",
+        "unitCostPrice": 1000,
+        "unitSellingPrice": 1500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Reo Pox 100g",
+    "quantity": 13,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Reo Pox 100g",
+        "quantity": 10,
+        "createdAt": "06/10/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 600,
+        "unitSellingPrice": 1200,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Reo Pox 100g",
+        "quantity": 3,
+        "createdAt": "01/06/2023",
+        "updatedAt": "03/01/2024",
+        "unitCostPrice": 600,
+        "unitSellingPrice": 800,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Antibiotics 1 Nd Mult",
+    "quantity": 8,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Antibiotics 1 Nd Mult",
+        "quantity": 8,
+        "createdAt": "10/10/2023",
+        "updatedAt": "18/11/2023",
+        "unitCostPrice": 800,
+        "unitSellingPrice": 1500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Wormcare Bolus",
+    "quantity": 38,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Wormcare Bolus",
+        "quantity": 38,
+        "createdAt": "06/10/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 50,
+        "unitSellingPrice": 100,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "dog carrier large",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "dog carrier large",
+        "quantity": 1,
+        "createdAt": "04/02/2024",
+        "updatedAt": "05/02/2024",
+        "unitCostPrice": 30000,
+        "unitSellingPrice": 40000,
+        "expiryDate": "04/02/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Dog Matress Extra L",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Dog Matress Extra L",
+        "quantity": 1,
+        "createdAt": "01/06/2023",
+        "updatedAt": "10/01/2024",
+        "unitCostPrice": 18000,
+        "unitSellingPrice": 20000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Nail Cutter With File",
+    "quantity": 50,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Nail Cutter With File",
+        "quantity": 5,
+        "createdAt": "31/01/2024",
+        "updatedAt": "31/01/2024",
+        "unitCostPrice": 2000,
+        "unitSellingPrice": 4000,
+        "expiryDate": "31/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Mouth Guard Rubber Size 3",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Mouth Guard Rubber Size 3",
+        "quantity": 1,
+        "createdAt": "07/10/2023",
+        "updatedAt": "07/10/2023",
+        "unitCostPrice": 2500,
+        "unitSellingPrice": 3000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Double Sided Plastic Brush Big",
+    "quantity": 21,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Double Sided Plastic Brush Big",
+        "quantity": 5,
+        "createdAt": "27/10/2023",
+        "updatedAt": "27/10/2023",
+        "unitCostPrice": 4500,
+        "unitSellingPrice": 5500,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Double Sided Plastic Brush Big",
+        "quantity": 3,
+        "createdAt": "07/10/2023",
+        "updatedAt": "06/01/2024",
+        "unitCostPrice": 4500,
+        "unitSellingPrice": 5500,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Double Sided Plastic Brush Big",
+        "quantity": 2,
+        "createdAt": "01/06/2023",
+        "updatedAt": "27/10/2023",
+        "unitCostPrice": 3500,
+        "unitSellingPrice": 5500,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Double Sided Plastic Brush Big",
+        "quantity": 1,
+        "createdAt": "01/06/2023",
+        "updatedAt": "18/01/2024",
+        "unitCostPrice": 3500,
+        "unitSellingPrice": 5500,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Double Sided Plastic Brush Big",
+        "quantity": 2,
+        "createdAt": "08/01/2024",
+        "updatedAt": "08/01/2024",
+        "unitCostPrice": 3500,
+        "unitSellingPrice": 5500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "agriproject puppy mouthguard",
+    "quantity": 4,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "agriproject puppy mouthguard",
+        "quantity": 2,
+        "createdAt": "07/10/2023",
+        "updatedAt": "13/12/2023",
+        "unitCostPrice": 800,
+        "unitSellingPrice": 1500,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "agriproject puppy mouthguard",
+        "quantity": 2,
+        "createdAt": "01/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 800,
+        "unitSellingPrice": 1000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Booster Oil",
+    "quantity": 29,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Booster Oil",
+        "quantity": 28,
+        "createdAt": "04/02/2024",
+        "updatedAt": "07/02/2024",
+        "unitCostPrice": 2500,
+        "unitSellingPrice": 4000,
+        "expiryDate": "04/02/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Booster Oil",
+        "quantity": 1,
+        "createdAt": "20/01/2024",
+        "updatedAt": "08/02/2024",
+        "unitCostPrice": 2500,
+        "unitSellingPrice": 4000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Petcool Daily Fresh 20kg ",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Petcool Daily Fresh 20kg ",
+        "quantity": 1,
+        "createdAt": "07/09/2023",
+        "updatedAt": "03/01/2024",
+        "unitCostPrice": 33000,
+        "unitSellingPrice": 45000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Praziwormer Pcs",
+    "quantity": 13,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Praziwormer Pcs",
+        "quantity": 13,
+        "createdAt": "02/11/2023",
+        "updatedAt": "14/02/2024",
+        "unitCostPrice": 250,
+        "unitSellingPrice": 500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Reo Cocci Forte 100g",
+    "quantity": 14,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Reo Cocci Forte 100g",
+        "quantity": 9,
+        "createdAt": "25/06/2023",
+        "updatedAt": "03/01/2024",
+        "unitCostPrice": 600,
+        "unitSellingPrice": 1000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Reo Cocci Forte 100g",
+        "quantity": 5,
+        "createdAt": "06/10/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 600,
+        "unitSellingPrice": 1200,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Dog Matress Size 3",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Dog Matress Size 3",
+        "quantity": 1,
+        "createdAt": "25/06/2023",
+        "updatedAt": "10/01/2024",
+        "unitCostPrice": 15000,
+        "unitSellingPrice": 25000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Grooming Bath And Hair",
+    "quantity": 5,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Grooming Bath And Hair",
+        "quantity": 5,
+        "createdAt": "10/10/2023",
+        "updatedAt": "10/10/2023",
+        "unitCostPrice": 2000,
+        "unitSellingPrice": 7000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Vic Ravax Antidiarhea Sus",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Vic Ravax Antidiarhea Sus",
+        "quantity": 1,
+        "createdAt": "08/01/2024",
+        "updatedAt": "08/01/2024",
+        "unitCostPrice": 1500,
+        "unitSellingPrice": 2000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Gown Pink",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Gown Pink",
+        "quantity": 1,
+        "createdAt": "07/10/2023",
+        "updatedAt": "07/10/2023",
+        "unitCostPrice": 5000,
+        "unitSellingPrice": 6000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "stephen shampoo",
+    "quantity": 3,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "stephen shampoo",
+        "quantity": 3,
+        "createdAt": "06/09/2023",
+        "updatedAt": "14/02/2024",
+        "unitCostPrice": 900,
+        "unitSellingPrice": 1800,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "fipro action 250ml",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "fipro action 250ml",
+        "quantity": 1,
+        "createdAt": "29/05/2023",
+        "updatedAt": "04/11/2023",
+        "unitCostPrice": 5300,
+        "unitSellingPrice": 8000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Round Throw Toy Big",
+    "quantity": 5,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Round Throw Toy Big",
+        "quantity": 5,
+        "createdAt": "25/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 3000,
+        "unitSellingPrice": 4000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Own Drug 2",
+    "quantity": 25,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Own Drug 2",
+        "quantity": 5,
+        "createdAt": "16/02/2024",
+        "updatedAt": "16/02/2024",
+        "unitCostPrice": 17,
+        "unitSellingPrice": 20,
+        "expiryDate": "16/02/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Own Drug 2",
+        "quantity": 3,
+        "createdAt": "16/02/2024",
+        "updatedAt": "16/02/2024",
+        "unitCostPrice": 17,
+        "unitSellingPrice": 20,
+        "expiryDate": "16/02/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Own Drug 2",
+        "quantity": 2,
+        "createdAt": "16/02/2024",
+        "updatedAt": "16/02/2024",
+        "unitCostPrice": 17,
+        "unitSellingPrice": 20,
+        "expiryDate": "16/02/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Own Drug 2",
+        "quantity": 1,
+        "createdAt": "16/02/2024",
+        "updatedAt": "16/02/2024",
+        "unitCostPrice": 17,
+        "unitSellingPrice": 20,
+        "expiryDate": "16/02/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Gadol Chemical",
+    "quantity": 20,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Gadol Chemical",
+        "quantity": 19,
+        "createdAt": "06/09/2023",
+        "updatedAt": "10/02/2024",
+        "unitCostPrice": 650,
+        "unitSellingPrice": 2000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Gadol Chemical",
+        "quantity": 1,
+        "createdAt": "07/10/2023",
+        "updatedAt": "08/01/2024",
+        "unitCostPrice": 650,
+        "unitSellingPrice": 2000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Grooming Bath Only",
+    "quantity": 5,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Grooming Bath Only",
+        "quantity": 5,
+        "createdAt": "10/10/2023",
+        "updatedAt": "10/10/2023",
+        "unitCostPrice": 2500,
+        "unitSellingPrice": 3500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Zito Milk Tin 500g",
+    "quantity": 3,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Zito Milk Tin 500g",
+        "quantity": 2,
+        "createdAt": "06/09/2023",
+        "updatedAt": "05/02/2024",
+        "unitCostPrice": 4500,
+        "unitSellingPrice": 9000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Zito Milk Tin 500g",
+        "quantity": 1,
+        "createdAt": "06/10/2023",
+        "updatedAt": "01/02/2024",
+        "unitCostPrice": 4500,
+        "unitSellingPrice": 9000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Ectochin Shampoo",
+    "quantity": 6,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Ectochin Shampoo",
+        "quantity": 6,
+        "createdAt": "06/09/2023",
+        "updatedAt": "27/01/2024",
+        "unitCostPrice": 1300,
+        "unitSellingPrice": 1900,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Cat Litter Box",
+    "quantity": 2,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Cat Litter Box",
+        "quantity": 2,
+        "createdAt": "27/10/2023",
+        "updatedAt": "27/10/2023",
+        "unitCostPrice": 7500,
+        "unitSellingPrice": 11500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "petgrow multivit",
+    "quantity": 14,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "petgrow multivit",
+        "quantity": 7,
+        "createdAt": "29/01/2024",
+        "updatedAt": "13/02/2024",
+        "unitCostPrice": 1880,
+        "unitSellingPrice": 3000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "petgrow multivit",
+        "quantity": 7,
+        "createdAt": "31/01/2024",
+        "updatedAt": "07/02/2024",
+        "unitCostPrice": 1880,
+        "unitSellingPrice": 3200,
+        "expiryDate": "31/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Fiptix Pour On 500mls",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Fiptix Pour On 500mls",
+        "quantity": 1,
+        "createdAt": "25/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 1000,
+        "unitSellingPrice": 1500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Flower Colar",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Flower Colar",
+        "quantity": 1,
+        "createdAt": "07/10/2023",
+        "updatedAt": "07/10/2023",
+        "unitCostPrice": 2500,
+        "unitSellingPrice": 3000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Zerokrim Pack Of 20",
+    "quantity": 7,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Zerokrim Pack Of 20",
+        "quantity": 7,
+        "createdAt": "25/07/2023",
+        "updatedAt": "27/01/2024",
+        "unitCostPrice": 3000,
+        "unitSellingPrice": 8000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "prime soap",
+    "quantity": 11,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "prime soap",
+        "quantity": 11,
+        "createdAt": "04/12/2023",
+        "updatedAt": "13/02/2024",
+        "unitCostPrice": 800,
+        "unitSellingPrice": 1200,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Rc Sensible 400g",
+    "quantity": 4,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Rc Sensible 400g",
+        "quantity": 4,
+        "createdAt": "03/01/2024",
+        "updatedAt": "10/02/2024",
+        "unitCostPrice": 6000,
+        "unitSellingPrice": 11000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Parvo Test Kit",
+    "quantity": 7,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Parvo Test Kit",
+        "quantity": 6,
+        "createdAt": "31/01/2024",
+        "updatedAt": "11/02/2024",
+        "unitCostPrice": 2500,
+        "unitSellingPrice": 6000,
+        "expiryDate": "31/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Parvo Test Kit",
+        "quantity": 1,
+        "createdAt": "01/06/2023",
+        "updatedAt": "08/02/2024",
+        "unitCostPrice": 2500,
+        "unitSellingPrice": 6000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Red Glove",
+    "quantity": 5,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Red Glove",
+        "quantity": 5,
+        "createdAt": "27/10/2023",
+        "updatedAt": "04/01/2024",
+        "unitCostPrice": 3000,
+        "unitSellingPrice": 3800,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Gxin Viral Clear 250ml",
+    "quantity": 4,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Gxin Viral Clear 250ml",
+        "quantity": 4,
+        "createdAt": "01/06/2023",
+        "updatedAt": "02/01/2024",
+        "unitCostPrice": 300,
+        "unitSellingPrice": 600,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "4mm Stainless Chain",
+    "quantity": 9,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "4mm Stainless Chain",
+        "quantity": 9,
+        "createdAt": "27/10/2023",
+        "updatedAt": "06/01/2024",
+        "unitCostPrice": 3500,
+        "unitSellingPrice": 4500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Amatrax 100mls",
+    "quantity": 6,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Amatrax 100mls",
+        "quantity": 6,
+        "createdAt": "25/06/2023",
+        "updatedAt": "02/01/2024",
+        "unitCostPrice": 2000,
+        "unitSellingPrice": 2800,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Zito Shampoo 1liter",
+    "quantity": 9,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Zito Shampoo 1liter",
+        "quantity": 9,
+        "createdAt": "04/02/2024",
+        "updatedAt": "05/02/2024",
+        "unitCostPrice": 1500,
+        "unitSellingPrice": 4000,
+        "expiryDate": "04/02/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Medium Paded Harness Leash Oy",
+    "quantity": 12,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Medium Paded Harness Leash Oy",
+        "quantity": 5,
+        "createdAt": "07/10/2023",
+        "updatedAt": "13/12/2023",
+        "unitCostPrice": 3500,
+        "unitSellingPrice": 7000,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "Medium Paded Harness Leash Oy",
+        "quantity": 7,
+        "createdAt": "02/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 3500,
+        "unitSellingPrice": 7000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Rc Kitten Pouch",
+    "quantity": 17,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Rc Kitten Pouch",
+        "quantity": 17,
+        "createdAt": "06/09/2023",
+        "updatedAt": "10/02/2024",
+        "unitCostPrice": 1400,
+        "unitSellingPrice": 2800,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Megayield Tonic 1liter",
+    "quantity": 2,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Megayield Tonic 1liter",
+        "quantity": 2,
+        "createdAt": "06/10/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 1000,
+        "unitSellingPrice": 1500,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "5mm Chain Leash",
+    "quantity": 19,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "5mm Chain Leash",
+        "quantity": 5,
+        "createdAt": "27/10/2023",
+        "updatedAt": "27/10/2023",
+        "unitCostPrice": 4000,
+        "unitSellingPrice": 5500,
+        "expiryDate": "30/01/2025"
+      },
+      {
+        "_id": null,
+        "itemName": "5mm Chain Leash",
+        "quantity": 7,
+        "createdAt": "06/08/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 4000,
+        "unitSellingPrice": 5000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  },
+  {
+    "_id": "Retractable Dog Leash Bug",
+    "quantity": 1,
+    "variants": [
+      {
+        "_id": null,
+        "itemName": "Retractable Dog Leash Bug",
+        "quantity": 1,
+        "createdAt": "25/06/2023",
+        "updatedAt": "06/10/2023",
+        "unitCostPrice": 5000,
+        "unitSellingPrice": 6000,
+        "expiryDate": "30/01/2025"
+      }
+    ]
+  }
+]
